@@ -24,9 +24,10 @@
     "Open Bot Folder": "Abrir Pasta do Bot",
     "Window": "Janela",
     "Language": "Idioma",
-    "English": "Inglês",
-    "German": "Alemão",
-    "Portuguese": "Português",
+    "English": "English (Inglês)",
+    "Deutsch (German)": "Deutsch (Alemão)",
+    "Português (Portuguese)": "Português",
+    "Русский (Russian)": "Русский (Russo)",
     "Help Us Translate": "Ajude-nos Traduzir",
     "Themes": "Temas",
     "Open Themes Folder": "Abrir Pasta de Temas",
@@ -122,5 +123,7 @@
     "Copy Invite": "Copiar Convite",
     "Can't generate the bot invite": "Não é possível gerar o convite do bot",
     "Make sure the bot token is valid or try again later.": "Certifique-se de que o token do bot seja válido ou tente novamente mais tarde.",
-    "Version:": "Versão:"
+    "Version:": "Versão:",
+
+    "The project path is invalid or unavailable.": "A localização do projeto é inválida ou não está disponível."
 }

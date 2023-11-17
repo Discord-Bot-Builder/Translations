@@ -25,8 +25,9 @@
     "Window": "",
     "Language": "",
     "English": "",
-    "German": "",
-    "Portuguese": "",
+    "Deutsch (German)": "",
+    "Português (Portuguese)": "",
+    "Русский (Russian)": "",
     "Help Us Translate": "",
     "Themes": "",
     "Open Themes Folder": "",
@@ -74,6 +75,7 @@
     "Delete Workspace": "",
     "Open Workspace": "",
     "Note": "",
+    "Click to add a note": "",
 
     "Search...": "",
     "Create Note": "",
@@ -121,5 +123,7 @@
     "Copy Invite": "",
     "Can't generate the bot invite": "",
     "Make sure the bot token is valid or try again later.": "",
-    "Version:": ""
+    "Version:": "",
+
+    "The project path is invalid or unavailable.": ""
 }

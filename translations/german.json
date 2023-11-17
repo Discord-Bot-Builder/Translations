@@ -24,9 +24,10 @@
     "Open Bot Folder": "Bot Ordner öffnen",
     "Window": "Fenster",
     "Language": "Sprache",
-    "English": "Englisch",
-    "German": "Deutsch",
-    "Portuguese": "Portugiesisch",
+    "English": "English (Englisch)",
+    "Deutsch (German)": "Deutsch",
+    "Português (Portuguese)": "Português (Portugiesisch)",
+    "Русский (Russian)": "Русский (Russisch)",
     "Help Us Translate": "Hilf bei der Übersetzung",
     "Themes": "Themes",
     "Open Themes Folder": "Theme Ordner öffnen",
@@ -122,5 +123,7 @@
     "Copy Invite": "Einladung Kopieren",
     "Can't generate the bot invite": "Es konnte keine Einladung erstellt werden",
     "Make sure the bot token is valid or try again later.": "Stelle sicher das der Bot Token korrekt ist oder versuche es später erneut.",
-    "Version:": "Version"
+    "Version:": "Version",
+
+    "The project path is invalid or unavailable.": "Der Projekt Pfad ist ungültig oder nicht verfügbar."
 }
