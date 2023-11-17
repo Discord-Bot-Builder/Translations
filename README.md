@@ -5,5 +5,5 @@ Avoid using a translator, it's only advisable to be translated by native speaker
 ## ✨ Contributors
 | Language        | Author(s)                 | Status        |
 | --------------- | ------------------------- | ------------- |
-| Portuguese 🇵🇹 🇧🇷 | MrGold                    | Complete ✅   |
-| German 🇩🇪       | NotCallMeHacker, XCraftTM | Incomplete ⚠️ |
+| Portuguese 🇵🇹 🇧🇷 | MrGold                    | Complete ✅ |
+| German 🇩🇪       | NotCallMeHacker, XCraftTM | Complete ✅ |
