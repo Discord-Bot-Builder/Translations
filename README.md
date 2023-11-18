@@ -1,5 +1,5 @@
 # 🌐 DBB Community Translations
-Use [blank.json](blank.json) and make a pull request to help translate DBB v1.<br>
+Use [blank.json](blank.json) and then make a pull request, or send to [MrGold](https://discord.gg/PAzxTDw) (DBB Developer) to help translate DBB v1.<br>
 Avoid using a translator, it's only advisable to be translated by native speakers! ⚠️
 
 ## ✨ Contributors
