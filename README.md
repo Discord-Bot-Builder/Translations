@@ -8,3 +8,4 @@ Avoid using a translator, it's only advisable to be translated by native speaker
 | Portuguese 🇵🇹 🇧🇷 | MrGold                    | Complete ✅ |
 | German 🇩🇪       | NotCallMeHacker, XCraftTM | Complete ✅ |
 | Russian 🇷🇺      | Artem's nite              | Complete ✅ |
+| Swedish 🇸🇪      | MissDaily                  | Complete ✅|
