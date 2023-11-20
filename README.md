@@ -9,3 +9,5 @@ Avoid using a translator, it's only advisable to be translated by native speaker
 | German 🇩🇪       | NotCallMeHacker, XCraftTM | Complete ✅ |
 | Russian 🇷🇺      | Artem's nite              | Complete ✅ |
 | Swedish 🇸🇪      | MissDaily                  | Complete ✅|
+| Czech 🇨🇿        | Martin Skalicky            | Complete ✅|
+| Polish 🇵🇱       | Domin0221                  | Complete ✅|
