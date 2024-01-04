@@ -95,10 +95,10 @@
     "Click the Block to add or hover it to preview": "",
     "Helps to document and organize the blocks within it.": "",
 
-    "Change Block Name": "",
+    "Rename Block": "",
     "Block Name": "",
     "New block name": "",
-    "Be careful when changing it, it may result in the loss of all block data!": "",
+    "Be careful when renaming it, it may result in the loss of all block data!": "",
     "Change Bot Token": "",
     "Bot Token": "",
     "New bot token": "",
@@ -118,6 +118,7 @@
     "URL": "",
     "Cancel": "",
     "Change": "",
+    "Rename": "",
 
     "Are you sure you want to delete the \"%s\" workspace?": "",
     "Are you sure you want to paste here the new workspace data?": "",
