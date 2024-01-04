@@ -13,6 +13,11 @@
     "Close Window": "Fenster schließen",
     "Exit": "Verlassen",
     "Selection": "Auswahl",
+    "Invert": "Invertieren",
+    "Undo": "Rückgängig",
+    "Redo": "Wiederholen",
+    "Copy": "Kopieren",
+    "Paste": "Einfügen",
     "Bot": "Bot",
     "Start Bot": "Bot starten",
     "Generate Bot Invite": "Bot Einladung erstellen",
@@ -21,7 +26,8 @@
     "Set Bot Main Prefix": "Haupt Bot Prefix setzen",
     "Set Bot Owners": "Bot Inhaber setzen",
     "Update bot.js": "bot.js erneuern",
-    "Update Blocks": "Blöcke Neu laden",
+    "Update Blocks": "Blöcke Aktualisieren",
+    "Refresh Blocks": "Blöcke neuladen",
     "Open Bot Folder": "Bot Ordner öffnen",
     "Window": "Fenster",
     "Language": "Sprache",
@@ -70,11 +76,14 @@
     "Description": "Beschreibung",
     "Delete": "Löschen",
 
+    "Workspace Info": "Workspace Info",
+
     "Change Banner": "Banner ändern",
     "Change Color": "Farbe ändern",
     "Turn Workspace ON/OFF": "Workspace ein-/ausschalten",
     "Copy Workspace Data": "Workspace Daten kopieren",
     "Paste Workspace Data": "Workspace Daten einfügen",
+    "Copy Workspace ID": "Workspace ID kopieren",
     "Copied!": "Kopiert!",
     "Delete Workspace": "Workspace löschen",
     "Open Workspace": "Workspace öffnen",
@@ -86,6 +95,10 @@
     "Click the Block to add or hover it to preview": "Klicke auf den Block um ihn zu platzieren, oder halte deine Maus darüber um ihn zu betrachten",
     "Helps to document and organize the blocks within it.": "Hilft beim dokumentieren und organisieren von Blöcken",
 
+    "Rename Block": "Block umbenennen",
+    "Block Name": "Block Name",
+    "New block name": "Neuer Block Name",
+    "Be careful when renaming it, it may result in the loss of all block data!": "Vorsicht beim umbenennen, es kann zum verlust aller Block Daten führen!",
     "Change Bot Token": "Bot Token setzen",
     "Bot Token": "Bot Token",
     "New bot token": "Neuer Bot Token",
@@ -105,6 +118,7 @@
     "URL": "URL",
     "Cancel": "Abbrechen",
     "Change": "Ändern",
+    "Rename": "Umbenennen",
 
     "Are you sure you want to delete the \"%s\" workspace?": "Sicher, dass der Workspace \"%s\" gelöscht werden soll?",
     "Are you sure you want to paste here the new workspace data?": "Sicher, dass die neuen Workspace Daten hier eingefügt werden sollen?",
@@ -128,6 +142,7 @@
     "Can't generate the bot invite": "Es konnte keine Einladung erstellt werden",
     "Make sure the bot token is valid or try again later.": "Stelle sicher das der Bot Token korrekt ist oder versuche es später erneut.",
     "Version:": "Version",
+    "Developer:": "Entwickler",
 
     "The project path is invalid or unavailable.": "Der Projekt Pfad ist ungültig oder nicht verfügbar."
 }
