@@ -13,6 +13,11 @@
     "Close Window": "",
     "Exit": "",
     "Selection": "",
+    "Invert": "",
+    "Undo": "",
+    "Redo": "",
+    "Copy": "",
+    "Paste": "",
     "Bot": "",
     "Start Bot": "",
     "Generate Bot Invite": "",
@@ -22,6 +27,7 @@
     "Set Bot Owners": "",
     "Update bot.js": "",
     "Update Blocks": "",
+    "Refresh Blocks": "",
     "Open Bot Folder": "",
     "Window": "",
     "Language": "",
@@ -70,11 +76,14 @@
     "Description": "",
     "Delete": "",
 
+    "Workspace Info": "",
+
     "Change Banner": "",
     "Change Color": "",
     "Turn Workspace ON/OFF": "",
     "Copy Workspace Data": "",
     "Paste Workspace Data": "",
+    "Copy Workspace ID": "",
     "Copied!": "",
     "Delete Workspace": "",
     "Open Workspace": "",
@@ -86,6 +95,10 @@
     "Click the Block to add or hover it to preview": "",
     "Helps to document and organize the blocks within it.": "",
 
+    "Change Block Name": "",
+    "Block Name": "",
+    "New block name": "",
+    "Be careful when changing it, it may result in the loss of all block data!": "",
     "Change Bot Token": "",
     "Bot Token": "",
     "New bot token": "",
@@ -128,6 +141,7 @@
     "Can't generate the bot invite": "",
     "Make sure the bot token is valid or try again later.": "",
     "Version:": "",
+    "Developer:": "",
 
     "The project path is invalid or unavailable.": ""
 }
