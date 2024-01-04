@@ -98,7 +98,7 @@
     "Rename Block": "Block umbenennen",
     "Block Name": "Block Name",
     "New block name": "Neuer Block Name",
-    "Be careful when changing it, it may result in the loss of all block data!": "Vorsicht beim ändern, es kann zum verlust aller Block Daten führen!",
+    "Be careful when renaming it, it may result in the loss of all block data!": "Vorsicht beim ändern, es kann zum verlust aller Block Daten führen!",
     "Change Bot Token": "Bot Token setzen",
     "Bot Token": "Bot Token",
     "New bot token": "Neuer Bot Token",
@@ -118,6 +118,7 @@
     "URL": "URL",
     "Cancel": "Abbrechen",
     "Change": "Ändern",
+    "Rename": "Umbenennen",
 
     "Are you sure you want to delete the \"%s\" workspace?": "Sicher, dass der Workspace \"%s\" gelöscht werden soll?",
     "Are you sure you want to paste here the new workspace data?": "Sicher, dass die neuen Workspace Daten hier eingefügt werden sollen?",
