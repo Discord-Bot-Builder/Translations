@@ -34,6 +34,7 @@
     "Čeština (Czech)": "Čeština (Tschechisch)",
     "English": "English (Englisch)",
     "Deutsch (German)": "Deutsch",
+    "Magyar (Hungarian)": "Magyar (Ungarisch)",
     "Polski (Polish)": "Polski (Polnisch)",
     "Português (Portuguese)": "Português (Portugiesisch)",
     "Русский (Russian)": "Русский (Russisch)",
@@ -141,8 +142,8 @@
     "Copy Invite": "Einladung Kopieren",
     "Can't generate the bot invite": "Es konnte keine Einladung erstellt werden",
     "Make sure the bot token is valid or try again later.": "Stelle sicher das der Bot Token korrekt ist oder versuche es später erneut.",
-    "Version:": "Version",
-    "Developer:": "Entwickler",
+    "Version:": "Version:",
+    "Developer:": "Entwickler:",
 
     "The project path is invalid or unavailable.": "Der Projekt Pfad ist ungültig oder nicht verfügbar."
 }

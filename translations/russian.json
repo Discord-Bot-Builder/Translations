@@ -13,6 +13,11 @@
     "Close Window": "Закрыть Окно",
     "Exit": "Закрыть",
     "Selection": "Выбор",
+    "Invert": "Обратить Выделение",
+    "Undo": "Отменить",
+    "Redo": "Вернуть",
+    "Copy": "Копировать",
+    "Paste": "Вставить",
     "Bot": "Бот",
     "Start Bot": "Запустить Бота",
     "Generate Bot Invite": "Сгенерировать Код Приглашения",
@@ -22,12 +27,14 @@
     "Set Bot Owners": "Задать Владельцев Бота",
     "Update bot.js": "Обновить bot.js",
     "Update Blocks": "Обновить Блоки",
+    "Refresh Blocks": "Перезагрузить Блоки",
     "Open Bot Folder": "Открыть Папку Бота",
     "Window": "Окно",
     "Language": "Язык",
     "Čeština (Czech)": "Čeština (Чешский)",
     "English": "English (Английский)",
     "Deutsch (German)": "Deutsch (Немецкий)",
+    "Magyar (Hungarian)": "Magyar (Венгерский)",
     "Polski (Polish)": "Polski (Польский)",
     "Português (Portuguese)": "Português (Португальский)",
     "Русский (Russian)": "Русский",
@@ -70,11 +77,14 @@
     "Description": "Описание",
     "Delete": "Удалить",
 
+    "Workspace Info": "Информация о Пространстве",
+
     "Change Banner": "Изменить Обложку",
     "Change Color": "Изменить Цвет",
     "Turn Workspace ON/OFF": "Переключить Состояние Пространства",
     "Copy Workspace Data": "Скопировать Данные Пространства",
     "Paste Workspace Data": "Вставить Данные Пространства",
+    "Copy Workspace ID": "Скопировать ID Пространства",
     "Copied!": "Скопировано!",
     "Delete Workspace": "Удалить Пространство",
     "Open Workspace": "Открыть Пространство",
@@ -86,6 +96,10 @@
     "Click the Block to add or hover it to preview": "Нажмите на Блок, чтобы добавить, или наведите для предварительного просмотра",
     "Helps to document and organize the blocks within it.": "Помогает документировать и организовывать блоки внутри него",
 
+    "Rename Block": "Переименовать Блок",
+    "Block Name": "Имя Блока",
+    "New block name": "Новое имя блока",
+    "Be careful when renaming it, it may result in the loss of all block data!": "Будьте осторожны когда будете переименовывать это, оно может привести к ПОТЕРЕ ВСЕХ ДАННЫХ блока!",
     "Change Bot Token": "Изменить Токен Бота",
     "Bot Token": "Токен Бота",
     "New bot token": "Новый Токен Бота",
@@ -105,6 +119,7 @@
     "URL": "Ссылка",
     "Cancel": "Отменить",
     "Change": "Изменить",
+    "Rename": "Переименовать",
 
     "Are you sure you want to delete the \"%s\" workspace?": "Вы уверены, что хотите удалить \"%s\" пространство?",
     "Are you sure you want to paste here the new workspace data?": "Вы уверены, что хотите вставить сюда новые данные пространства?",
@@ -128,6 +143,7 @@
     "Can't generate the bot invite": "Невозможно сгенерировать приглашение для бота",
     "Make sure the bot token is valid or try again later.": "Убедитесь, что токен бота действителен или попробуйте позже.",
     "Version:": "Версия:",
+    "Developer:": "Разработчик:",
 
     "The project path is invalid or unavailable.": "Данный путь проекта недействителен или недоступен."
 }

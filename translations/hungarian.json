@@ -26,10 +26,11 @@
     "Window": "Ablak",
     "Language": "Nyelv",
     "Čeština (Czech)": "Čeština (Cseh)",
-    "English": "Angol",
-    "Deutsch (German)": "Deutsch (német)",
-    "Polski (Polish)": "Polski (lengyel)",
-    "Português (Portuguese)": "Português (portugál)",
+    "English": "English (Angol)",
+    "Deutsch (German)": "Deutsch (Német)",
+    "Magyar (Hungarian)": "Magyar",
+    "Polski (Polish)": "Polski (Lengyel)",
+    "Português (Portuguese)": "Português (Portugál)",
     "Русский (Russian)": "Русский (Orosz)",
     "Svenska (Swedish)": "Svenska (Svéd)",
     "Help Us Translate": "Segíts a fordításban",
@@ -43,7 +44,7 @@
     "Disable": "Letiltás",
     "Help": "Súgó",
     "Join our Discord Server": "Csatlakozz a Discord szerverünkre",
-    "Download Node.js®": "Node.js letöltése",
+    "Download Node.js®": "Node.js® letöltése",
     "Developer": "Fejlesztő",
     "Show CSS Selector": "CSS-választó megjelenítése",
     "About": "Névjegy",
@@ -127,7 +128,7 @@
     "Copy Invite": "Meghívó másolása",
     "Can't generate the bot invite": "Nem tudjuk létrehozni a bot meghívót",
     "Make sure the bot token is valid or try again later.": "Győződj meg róla, hogy a bot token érvényes, vagy próbáld meg később újra.",
-    "Version:": "Verzió",
+    "Version:": "Verzió:",
 
     "The project path is invalid or unavailable.": "A projekt elérési útvonala érvénytelen vagy nem elérhető."
 }
