@@ -13,6 +13,11 @@
     "Close Window": "Zamknij Okno",
     "Exit": "Wyjdź",
     "Selection": "Wybór",
+    "Invert": "Odwróć",
+    "Undo": "Cofnij",
+    "Redo": "Ponów",
+    "Copy": "Kopiuj",
+    "Paste": "Wklej",
     "Bot": "Bot",
     "Start Bot": "Uruchom Bota",
     "Generate Bot Invite": "Generuj Zaproszenie Bota",
@@ -22,12 +27,14 @@
     "Set Bot Owners": "Ustaw Właścicieli Bota",
     "Update bot.js": "Aktualizuj bot.js",
     "Update Blocks": "Aktualizuj Bloki",
+    "Refresh Blocks": "Odśwież Bloki",
     "Open Bot Folder": "Otwórz Folder Bota",
     "Window": "Okno",
     "Language": "Język",
     "Čeština (Czech)": "Čeština (Czeski)",
     "English": "English (Angielski)",
     "Deutsch (German)": "Deutsch (Niemiecki)",
+    "Magyar (Hungarian)": "Magyar (Węgierski)",
     "Polski (Polish)": "Polski",
     "Português (Portuguese)": "Português (Portugalski)",
     "Русский (Russian)": "Русский (Rosyjski)",
@@ -70,11 +77,14 @@
     "Description": "Opis",
     "Delete": "Usuń",
 
+    "Workspace Info": "Informacje o Przestrzeni Roboczej",
+
     "Change Banner": "Zmień Baner",
     "Change Color": "Zmień Kolor",
     "Turn Workspace ON/OFF": "Włącz/Wyłącz Przestrzeń Roboczą",
     "Copy Workspace Data": "Skopiuj Dane Przestrzeni Roboczej",
     "Paste Workspace Data": "Wklej Dane Przestrzeni Roboczej",
+    "Copy Workspace ID": "Kopiuj ID Przestrzeni Roboczej",
     "Copied!": "Skopiowano!",
     "Delete Workspace": "Usuń Przestrzeń Roboczą",
     "Open Workspace": "Otwórz Przestrzeń Roboczą",
@@ -86,6 +96,10 @@
     "Click the Block to add or hover it to preview": "Kliknij Blok, aby dodać, albo najedź, aby zobaczyć podgląd",
     "Helps to document and organize the blocks within it.": "Pomaga dokumentować i organizować bloki wewnątrz niej.",
 
+    "Rename Block": "Zmień Nazwę Bloku",
+    "Block Name": "Nazwa Bloku",
+    "New block name": "Nowa nazwa bloku",
+    "Be careful when renaming it, it may result in the loss of all block data!": "Bądź ostrożny przy zmianie nazwy, może to skutkować utratą wszystkich danych bloku!",
     "Change Bot Token": "Zmień Token Bota",
     "Bot Token": "Token Bota",
     "New bot token": "Nowy token bota",
@@ -105,6 +119,7 @@
     "URL": "URL",
     "Cancel": "Anuluj",
     "Change": "Zmień",
+    "Rename": "Zmień Nazwę",
 
     "Are you sure you want to delete the \"%s\" workspace?": "Czy na pewno chcesz usunąć przestrzeń roboczą \"%s\"?",
     "Are you sure you want to paste here the new workspace data?": "Czy na pewno chcesz wkleić tutaj nowe dane przestrzeni roboczej?",
@@ -128,6 +143,7 @@
     "Can't generate the bot invite": "Nie można wygenerować zaproszenia bota",
     "Make sure the bot token is valid or try again later.": "Upewnij się, że token bota jest prawidłowy lub spróbuj ponownie później.",
     "Version:": "Wersja:",
+    "Developer:": "Deweloper:",
 
     "The project path is invalid or unavailable.": "Ścieżka projektu jest nieprawidłowa lub niedostępna."
 }

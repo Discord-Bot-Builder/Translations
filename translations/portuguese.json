@@ -13,6 +13,11 @@
     "Close Window": "Fechar Janela",
     "Exit": "Sair",
     "Selection": "Seleção",
+    "Invert": "Inverter",
+    "Undo": "Desfazer",
+    "Redo": "Refazer",
+    "Copy": "Copiar",
+    "Paste": "Colar",
     "Bot": "Bot",
     "Start Bot": "Iniciar Bot",
     "Generate Bot Invite": "Gerar Convite do Bot",
@@ -22,12 +27,14 @@
     "Set Bot Owners": "Definir Donos do Bot",
     "Update bot.js": "Atualizar bot.js",
     "Update Blocks": "Atualizar Blocos",
+    "Refresh Blocks": "Recarregar Blocos",
     "Open Bot Folder": "Abrir Pasta do Bot",
     "Window": "Janela",
     "Language": "Idioma",
     "Čeština (Czech)": "Čeština (Checo)",
     "English": "English (Inglês)",
     "Deutsch (German)": "Deutsch (Alemão)",
+    "Magyar (Hungarian)": "Magyar (Húngaro)",
     "Polski (Polish)": "Polski (Polaco)",
     "Português (Portuguese)": "Português",
     "Русский (Russian)": "Русский (Russo)",
@@ -70,11 +77,14 @@
     "Description": "Descrição",
     "Delete": "Apagar",
 
+    "Workspace Info": "Informação da Área de Trabalho",
+
     "Change Banner": "Mudar Faixa",
     "Change Color": "Mudar Cor",
     "Turn Workspace ON/OFF": "Ligar/Desligar Área de Trabalho",
     "Copy Workspace Data": "Copiar Dados da Área de Trabalho",
     "Paste Workspace Data": "Colar Dados da Área de Trabalho",
+    "Copy Workspace ID": "Copiar ID da Área de Trabalho",
     "Copied!": "Copiado!",
     "Delete Workspace": "Apagar Área de Trabalho",
     "Open Workspace": "Abrir Área de Trabalho",
@@ -86,6 +96,10 @@
     "Click the Block to add or hover it to preview": "Clique no Bloco para o adicionar ou passe o rato sobre ele para o pré-visualizar",
     "Helps to document and organize the blocks within it.": "Ajuda a documentar e a organizar os blocos dentro dele.",
 
+    "Rename Block": "Renomear Bloco",
+    "Block Name": "Nome do Bloco",
+    "New block name": "Novo nome do bloco",
+    "Be careful when renaming it, it may result in the loss of all block data!": "Tenha cuidado ao renomeá-lo, pois pode resultar na perda de todos os dados do bloco!",
     "Change Bot Token": "Mudar Token do Bot",
     "Bot Token": "Token do Bot",
     "New bot token": "Novo token do bot",
@@ -105,6 +119,7 @@
     "URL": "URL",
     "Cancel": "Cancelar",
     "Change": "Mudar",
+    "Rename": "Renomear",
 
     "Are you sure you want to delete the \"%s\" workspace?": "Tem a certeza de que pretende apagar a área de trabalho \"%s\"?",
     "Are you sure you want to paste here the new workspace data?": "Tem a certeza de que pretende colar aqui os dados da nova área de trabalho?",
@@ -128,6 +143,7 @@
     "Can't generate the bot invite": "Não é possível gerar o convite do bot",
     "Make sure the bot token is valid or try again later.": "Certifique-se de que o token do bot seja válido ou tente novamente mais tarde.",
     "Version:": "Versão:",
+    "Developer:": "Desenvolvedor:",
 
     "The project path is invalid or unavailable.": "A localização do projeto é inválida ou não está disponível."
 }

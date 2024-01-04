@@ -3,11 +3,12 @@ Use [blank.json](blank.json) and then make a pull request, or send to [MrGold](h
 Avoid using a translator, it's only advisable to be translated by native speakers! ⚠️
 
 ## ✨ Contributors
-| Language        | Author(s)                 | Status      |
-| --------------- | ------------------------- | ----------- |
-| Portuguese 🇵🇹 🇧🇷 | MrGold                    | Complete ✅ |
-| German 🇩🇪       | NotCallMeHacker, XCraftTM | Complete ✅ |
-| Russian 🇷🇺      | Artem's nite              | Complete ✅ |
-| Swedish 🇸🇪      | MissDaily                  | Complete ✅|
-| Czech 🇨🇿        | Martin Skalicky            | Complete ✅|
-| Polish 🇵🇱       | Domin0221                  | Complete ✅|
+| Language        | Author(s)                 | Status                         |
+| --------------- | ------------------------- | ------------------------------ |
+| Portuguese 🇵🇹 🇧🇷 | MrGold                    | Complete ✅                    |
+| German 🇩🇪       | NotCallMeHacker, XCraftTM  | Complete ✅                   |
+| Russian 🇷🇺      | Artem's nite               | Complete ✅                   |
+| Swedish 🇸🇪      | MissDaily                  | Complete ✅                   |
+| Czech 🇨🇿        | Martin Skalicky            | Complete ✅                   |
+| Polish 🇵🇱       | Domin0221                  | Complete ✅                   |
+| Hungarian 🇭🇺    | Zan1456                   | Incomplete (1.0.0-preview.1) ⚠️|
