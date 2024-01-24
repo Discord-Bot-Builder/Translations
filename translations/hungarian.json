@@ -32,6 +32,7 @@
     "Window": "Ablak",
     "Language": "Nyelv",
     "Čeština (Czech)": "Čeština (Cseh)",
+    "Nederlands (Dutch)": "Nederlands (Holland)",
     "English": "English (Angol)",
     "Deutsch (German)": "Deutsch (Német)",
     "Magyar (Hungarian)": "Magyar",
@@ -99,7 +100,7 @@
     "Rename Block": "Blokk átnevezése",
     "Block Name": "Blokk neve",
     "New block name": "Új blokk neve",
-    "Be careful when renaming it, it may result in the loss of all block data!": "",
+    "Be careful when renaming it, it may result in the loss of all block data!": "Legyen óvatos az átnevezéssel, mert ez az összes blokkadat elvesztéséhez vezethet!",
     "Change Bot Token": "Bot token megváltoztatása",
     "Bot Token": "Bot token",
     "New bot token": "Új bot token",
@@ -143,7 +144,7 @@
     "Can't generate the bot invite": "Nem tudjuk létrehozni a bot meghívót",
     "Make sure the bot token is valid or try again later.": "Győződj meg róla, hogy a bot token érvényes, vagy próbáld meg később újra.",
     "Version:": "Verzió:",
-    "Developer:": "Fejlesztő",
+    "Developer:": "Fejlesztő:",
 
     "The project path is invalid or unavailable.": "A projekt elérési útvonala érvénytelen vagy nem elérhető."
 }
