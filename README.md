@@ -8,7 +8,7 @@ Avoid using a translator, it's only advisable to be translated by native speaker
 | Language         | Author(s)                                | Status                          |
 | ---------------- | ---------------------------------------- | ------------------------------- |
 | Portuguese 🇵🇹 🇧🇷  | MrGold                                   | Complete ✅                    |
-| German 🇩🇪        | NotCallMeHacker, XCraftTM, ACertainCoder | Incomplete (1.0.0-preview.3) ⚠️ |
+| German 🇩🇪        | NotCallMeHacker, XCraftTM, ACertainCoder | Complete ✅                     |
 | Russian 🇷🇺       | Artem's nite                             | Incomplete (1.0.0-preview.3) ⚠️ |
 | Swedish 🇸🇪       | MissDaily                                | Incomplete (1.0.0-preview.3) ⚠️ |
 | Czech 🇨🇿         | Martin Skalicky                          | Incomplete (1.0.0-preview.3) ⚠️ |
