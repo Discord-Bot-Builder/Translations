@@ -63,7 +63,7 @@
     "Select All": "Выбрать Всё",
     "Unselect %d Item(s)": "Отменить Выделение %d Предмет(ов)",
     "There is no workspace open...": "Открытого рабочего пространства не существует...",
-    "To create an Item (Block/Note), right-click and select what you want.\n\nClick the header of any Item to edit its properties.\n\nHold down Shift and drag a Selection Area.": "Чтобы создать Элемент (Блок/Заметку), щелкните правой кнопкой мыши и выберите то, что вы хотите.\n\nНажмите заголовок любого Элемента, чтобы отредактировать его свойства.\n\nУдерживая клавишу Shift, перетащите область выделения.",
+    "To create an Item (Block/Note), right-click and select the desired option.\n\nClick the header of any Item to edit its properties.\n\nHold down Shift and drag a Selection Area.": "Чтобы создать Элемент (Блок/Заметку), щелкните правой кнопкой мыши и выберите то, что вы хотите.\n\nНажмите заголовок любого Элемента, чтобы отредактировать его свойства.\n\nУдерживая клавишу Shift, перетащите область выделения.",
     "Height": "Высота",
     "Width": "Ширина",
     "Color": "Цвет",
@@ -154,7 +154,7 @@
     "Discord RPC": "Discord RPC",
 
     "Dark Mode": "Тёмный Режим",
-    "Darkens the colors in the app and it is better for your eyes in dark environments.": "Затемняет цвета в приложении, и это лучше для ваших глаз в темноте.",
+    "Darkens the colors in the app, which is better for your eyes in dark environments.": "Затемняет цвета в приложении, и это лучше для ваших глаз в темноте.",
     "System Preference": "Как в системе",
     "Enable": "Включить",
     "Disable": "Отключить",
@@ -208,7 +208,7 @@
     "Developer Mode": "Режим Разработчика",
     "Developer Mode exposes the \"Developer\" menu with tools to help power users.": "В режиме разработчика открывается меню \"Разработчик\" с инструментами, которые помогут опытным пользователям.",
 
-    "When selecting any Block, the \"Rename Block\" button will appear and you can rename them to the desired Block (you need to know the Block's internal name, but still having the risk of losing all its data).": "При выборе любого Блока появится кнопка \"Переименовать Блок\", и вы сможете переименовать его в нужный Блок (нужно знать внутреннее имя Блока, но при этом есть риск потерять все его данные).",
+    "When selecting any Block, the \"Rename Block\" button will appear, which allows you to rename it to the desired Block (you need to know the Block's internal name). When renaming a Block, there is a risk of losing all its data.": "При выборе любого Блока появится кнопка \"Переименовать Блок\", и вы сможете переименовать его в нужный Блок (нужно знать внутреннее имя Блока, но при этом есть риск потерять все его данные).",
 
     "Single Action Wire": "Одинарный провод \"Действие\"",
     "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "Большинству пользователей не требуется делать более одного провода от выхода типа \"Действие\". Существующие провода не затрагиваются.",

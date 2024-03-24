@@ -57,13 +57,13 @@
 
     "Workspace Info": "Werkruimte Info",
 
-    "Show Item Properties": "Toon Item eigenschappen", 
-    "Hide Item Properties": "Verstop Item eigenschappen", 
+    "Show Item Properties": "Toon Item eigenschappen",
+    "Hide Item Properties": "Verstop Item eigenschappen",
 
     "Select All": "Selecteer Alles",
     "Unselect %d Item(s)": "Deselecteer %d Item(s)",
     "There is no workspace open...": "Er is geen Werkruimte te openen...",
-    "To create an Item (Block/Note), right-click and select what you want.\n\nClick the header of any Item to edit its properties.\n\nHold down Shift and drag a Selection Area.": "Om een Item (Blok/notitie) te maken, klik met je rechtermuis knop en selecteer wat je wil.\n\nKlik de titel van een Item om zijn eigenschappen te veranderen.\n\nHoud Shift ingedrukt en sleep om een selectiegebied te maken.", 
+    "To create an Item (Block/Note), right-click and select the desired option.\n\nClick the header of any Item to edit its properties.\n\nHold down Shift and drag a Selection Area.": "Om een Item (Blok/notitie) te maken, klik met je rechtermuis knop en selecteer wat je wil.\n\nKlik de titel van een Item om zijn eigenschappen te veranderen.\n\nHoud Shift ingedrukt en sleep om een selectiegebied te maken.",
     "Height": "Hoogte",
     "Width": "Breedte",
     "Color": "Kleur",
@@ -154,7 +154,7 @@
     "Discord RPC": "Discord RPC",
 
     "Dark Mode": "Donker Modus",
-    "Darkens the colors in the app and it is better for your eyes in dark environments.": "Verduistert de kleuren in de app zodat het beter is voor je ogen in donkere omgevingen.",
+    "Darkens the colors in the app, which is better for your eyes in dark environments.": "Verduistert de kleuren in de app zodat het beter is voor je ogen in donkere omgevingen.",
     "System Preference": "Systeem Voorkeur",
     "Enable": "Aanzetten",
     "Disable": "Uitzetten",
@@ -166,7 +166,7 @@
     "Refresh": "Vernieuwen",
 
     "Workspace Tabs": "Werkruimte Tabbladen",
-    "Organize your open workspaces, using tabs. Make sure to close the inactive tabs.": "Organiseer je open werkruimtes met tabs. Zorg ervoor dat je alle inactieve tabs sluit.", 
+    "Organize your open workspaces, using tabs. Make sure to close the inactive tabs.": "Organiseer je open werkruimtes met tabs. Zorg ervoor dat je alle inactieve tabs sluit.",
 
     "Snap Items to Grid": "Items vastmaken aan raster",
     "When moving or resizing items, align them with the grid to maintain consistency.": "Wanneer je items verplaats of vergroot, lijn ze dan uit met het raster om het netjes te houden.",
@@ -175,7 +175,7 @@
     "When creating a Block that has scrollbar, maximize its size to view everything.": "Wanneer je een blok hebt met een scrollbar, maximaliseer de grootte om alles te kunnen bekijken.",
 
     "Enable Backup": "Zet backups aan",
-    "Automatically backs up your open projects, so you can open them later in case of any accident, by going to Project > Open Backup.": "Maakt automatisch back-ups van je open projecten, zodat je ze later open kan maken in het geval van een ongelukje of crash. Om open te maken ga naar Project > Open Backup.", 
+    "Automatically backs up your open projects, so you can open them later in case of any accident, by going to Project > Open Backup.": "Maakt automatisch back-ups van je open projecten, zodat je ze later open kan maken in het geval van een ongelukje of crash. Om open te maken ga naar Project > Open Backup.",
 
     "Backup Interval": "Tussentijd backup",
     "Choose how often your project will be backed up.": "Kies hoevaak er van je project een backup wordt gemaakt.",
@@ -186,10 +186,10 @@
     "1 hour": "1 uur",
 
     "Max Backups": "Maximale back-ups",
-    "Specify the maximum amount of recent backups to keep. Be aware that setting the number too high will take up a lot of storage. This action will not take effect immediately.": "Specificeer de maximale hoeveelheid van recente back-ups om te behouden. Als je dit nummer heel hoog zet gaat het veel opslag kosten. Deze actie neemt niet meteen effect.", 
+    "Specify the maximum amount of recent backups to keep. Be aware that setting the number too high will take up a lot of storage. This action will not take effect immediately.": "Specificeer de maximale hoeveelheid van recente back-ups om te behouden. Als je dit nummer heel hoog zet gaat het veel opslag kosten. Deze actie neemt niet meteen effect.",
 
-    "Backup raw project when opening": "Back-up van een onbewerkt project bij het openen", 
-    "When opening a project, backs up all its relevant files without any modifications.": "Wanneer je een project opent, maak een back-up van alle relevante bestanden zonder modificaties.", 
+    "Backup raw project when opening": "Back-up van een onbewerkt project bij het openen",
+    "When opening a project, backs up all its relevant files without any modifications.": "Wanneer je een project opent, maak een back-up van alle relevante bestanden zonder modificaties.",
 
     "Select a language": "Selecteer een taal",
     "German": "Duits",
@@ -206,20 +206,20 @@
     "Most translations are made by the community and they may be incomplete, contain inaccuracies or have spelling mistakes. If you would like to help translate the app, check out our [translations repository](https://github.com/Discord-Bot-Builder/Translations).": "Meeste translaties zijn gemaakt door de community/leden van de Discord, hierdoor zijn er soms spelfouten of kloppen sommige translaties niet in de context. Als je mee wilt help met translaties verbeteren of nieuwe maken ga naar [opslagplaats voor vertalingen](https://github.com/Discord-Bot-Builder/Translations).",
 
     "Developer Mode": "Ontwikkelaars modus",
-    "Developer Mode exposes the \"Developer\" menu with tools to help power users.": "Ontwikkelaars modus maakt het \"Ontwikkelaar\" menu beschikbaar. Dit is voor ervaren gebruikers.", 
+    "Developer Mode exposes the \"Developer\" menu with tools to help power users.": "Ontwikkelaars modus maakt het \"Ontwikkelaar\" menu beschikbaar. Dit is voor ervaren gebruikers.",
 
-    "When selecting any Block, the \"Rename Block\" button will appear and you can rename them to the desired Block (you need to know the Block's internal name, but still having the risk of losing all its data).": "Bij het selecteren van een blok, komt het \"Hernoem blok\" menu naar voren, hierbij kan je hem hernoemen naar een andere blok (Hierbij moet je de blok zijn programma naam kennen anders kan hij onbeschikbaar worden en interne data verliezen).",
+    "When selecting any Block, the \"Rename Block\" button will appear, which allows you to rename it to the desired Block (you need to know the Block's internal name). When renaming a Block, there is a risk of losing all its data.": "Bij het selecteren van een blok, komt het \"Hernoem blok\" menu naar voren, hierbij kan je hem hernoemen naar een andere blok (Hierbij moet je de blok zijn programma naam kennen anders kan hij onbeschikbaar worden en interne data verliezen).",
 
     "Single Action Wire": "Enkele Actie Lijn",
-    "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "De meeste gebruikers hoeven niet meer dan een lijn te maken vanaf een uitgang met het type \"Actie\". Bestaande lijnen worden niet beinvloed.", 
+    "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "De meeste gebruikers hoeven niet meer dan een lijn te maken vanaf een uitgang met het type \"Actie\". Bestaande lijnen worden niet beinvloed.",
 
     "Discord Rich Presence": "Discord Rich Presence",
-    "Enable DBB Rich Presence in Discord": "Zet DBB Rich Presence aan in Discord", 
-    "Shows in your Discord Activity that you are using Discord Bot Builder. This action may take some time.": "Toont in uw Discord-activiteit dat u Discord Bot Builder gebruikt. Deze actie kan enige tijd duren voordat het effect neemt.", 
+    "Enable DBB Rich Presence in Discord": "Zet DBB Rich Presence aan in Discord",
+    "Shows in your Discord Activity that you are using Discord Bot Builder. This action may take some time.": "Toont in uw Discord-activiteit dat u Discord Bot Builder gebruikt. Deze actie kan enige tijd duren voordat het effect neemt.",
 
-    "Show Full Info": "Toon volledige informatie", 
-    "Shows publicly the project name and the workspace name you are currently working on.": "Toont openbaar de projectnaam en de naam van de werkruimte waar u momenteel aan werkt.", 
+    "Show Full Info": "Toon volledige informatie",
+    "Shows publicly the project name and the workspace name you are currently working on.": "Toont openbaar de projectnaam en de naam van de werkruimte waar u momenteel aan werkt.",
 
-    "Show Status": "Toon status", 
-    "Shows publicly your status on your current usage of Discord Bot Builder.": "Laat publiek je status zien van je tijd op Discord Bot Builder." 
+    "Show Status": "Toon status",
+    "Shows publicly your status on your current usage of Discord Bot Builder.": "Laat publiek je status zien van je tijd op Discord Bot Builder."
 }

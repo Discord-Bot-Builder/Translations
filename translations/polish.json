@@ -63,7 +63,7 @@
     "Select All": "Zaznacz Wszystko",
     "Unselect %d Item(s)": "Odznacz %d Element(y/ów)",
     "There is no workspace open...": "Nie ma otwartej przestrzeni roboczej...",
-    "To create an Item (Block/Note), right-click and select what you want.\n\nClick the header of any Item to edit its properties.\n\nHold down Shift and drag a Selection Area.": "Aby utworzyć Element (Blok/Notatkę), kliknij prawym przyciskiem myszy i wybierz to, co chcesz.\n\nKliknij nagłówek dowolnego Elementu, aby edytować jego właściwości.\n\nPrzytrzymaj klawisz Shift i przeciągnij, aby zaznaczyć obszar.",
+    "To create an Item (Block/Note), right-click and select the desired option.\n\nClick the header of any Item to edit its properties.\n\nHold down Shift and drag a Selection Area.": "Aby utworzyć Element (Blok/Notatkę), kliknij prawym przyciskiem myszy i wybierz to, co chcesz.\n\nKliknij nagłówek dowolnego Elementu, aby edytować jego właściwości.\n\nPrzytrzymaj klawisz Shift i przeciągnij, aby zaznaczyć obszar.",
     "Height": "Wysokość",
     "Width": "Szerokość",
     "Color": "Kolor",
@@ -154,7 +154,7 @@
     "Discord RPC": "Discord RPC",
 
     "Dark Mode": "Tryb Ciemny",
-    "Darkens the colors in the app and it is better for your eyes in dark environments.": "Przyciemnia kolory w aplikacji, co jest lepsze dla twoich oczu w ciemnych środowiskach.",
+    "Darkens the colors in the app, which is better for your eyes in dark environments.": "Przyciemnia kolory w aplikacji, co jest lepsze dla twoich oczu w ciemnych środowiskach.",
     "System Preference": "Preferencje Systemowe",
     "Enable": "Włącz",
     "Disable": "Wyłącz",
@@ -208,7 +208,7 @@
     "Developer Mode": "Tryb Dewelopera",
     "Developer Mode exposes the \"Developer\" menu with tools to help power users.": "Tryb Dewelopera odkrywa menu \"Deweloper\" z narzędziami pomocnymi dla zaawansowanych użytkowników.",
 
-    "When selecting any Block, the \"Rename Block\" button will appear and you can rename them to the desired Block (you need to know the Block's internal name, but still having the risk of losing all its data).": "Wybierając dowolny Blok, pojawi się przycisk \"Zmień Nazwę Bloku\", który pozwoli Ci zmienić jego nazwę na pożądany Blok (musisz znać wewnętrzną nazwę Bloku, ale nadal istnieje ryzyko utraty wszystkich jego danych).",
+    "When selecting any Block, the \"Rename Block\" button will appear, which allows you to rename it to the desired Block (you need to know the Block's internal name). When renaming a Block, there is a risk of losing all its data.": "Wybierając dowolny Blok, pojawi się przycisk \"Zmień Nazwę Bloku\", który pozwoli Ci zmienić jego nazwę na pożądany Blok (musisz znać wewnętrzną nazwę Bloku, ale nadal istnieje ryzyko utraty wszystkich jego danych).",
 
     "Single Action Wire": "Przewód Jednoakcyjny",
     "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "Większość użytkowników nie potrzebuje tworzyć więcej niż jeden przewód z wyjścia o typie \"Action\". Nie ma to wpływu na istniejące przewody.",

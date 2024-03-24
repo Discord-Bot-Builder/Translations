@@ -63,7 +63,7 @@
     "Select All": "Välj Alla",
     "Unselect %d Item(s)": "Avmarkera %d objekt",
     "There is no workspace open...": "Det finns ingen Arbetsplats öppen...",
-    "To create an Item (Block/Note), right-click and select what you want.\n\nClick the header of any Item to edit its properties.\n\nHold down Shift and drag a Selection Area.": "För att skapa ett objekt (block/anteckning), högerklicka och välj det du vill ha.\n\nKlicka på rubriken för ett objekt för att redigera dess egenskaper.\n\nHåll ned Skift och dra ett markeringsområde.",
+    "To create an Item (Block/Note), right-click and select the desired option.\n\nClick the header of any Item to edit its properties.\n\nHold down Shift and drag a Selection Area.": "För att skapa ett objekt (block/anteckning), högerklicka och välj det du vill ha.\n\nKlicka på rubriken för ett objekt för att redigera dess egenskaper.\n\nHåll ned Skift och dra ett markeringsområde.",
     "Height": "Höjd",
     "Width": "Tjocklek",
     "Color": "Färg",
@@ -154,7 +154,7 @@
     "Discord RPC": "Discord RPC",
 
     "Dark Mode": "Mörk Läge",
-    "Darkens the colors in the app and it is better for your eyes in dark environments.": "Mörkar färgerna i appen och det är bättre för dina ögon i mörka miljöer.",
+    "Darkens the colors in the app, which is better for your eyes in dark environments.": "Mörkar färgerna i appen och det är bättre för dina ögon i mörka miljöer.",
     "System Preference": "Systempreferens",
     "Enable": "Aktivera",
     "Disable": "Avaktivera",
@@ -208,7 +208,7 @@
     "Developer Mode": "Utvecklarläge",
     "Developer Mode exposes the \"Developer\" menu with tools to help power users.": "Utvecklarläget visar \"Utvecklare\"-menyn med verktyg som hjälper avancerade användare.",
 
-    "When selecting any Block, the \"Rename Block\" button will appear and you can rename them to the desired Block (you need to know the Block's internal name, but still having the risk of losing all its data).": "När du väljer ett block kommer knappen \"Byt namn på block\" att visas och du kan byta namn på dem till önskat block (du måste känna till blockets interna namn, men fortfarande riskera att förlora all data).",
+    "When selecting any Block, the \"Rename Block\" button will appear, which allows you to rename it to the desired Block (you need to know the Block's internal name). When renaming a Block, there is a risk of losing all its data.": "När du väljer ett block kommer knappen \"Byt namn på block\" att visas och du kan byta namn på dem till önskat block (du måste känna till blockets interna namn, men fortfarande riskera att förlora all data).",
 
     "Single Action Wire": "Ensam Action tråd",
     "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "De flesta användare behöver inte göra mer än en tråd från en utgång med typen \"Action\". Befintliga ledningar påverkas inte.",

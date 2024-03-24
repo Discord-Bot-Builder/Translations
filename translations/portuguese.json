@@ -63,7 +63,7 @@
     "Select All": "Selecionar Tudo",
     "Unselect %d Item(s)": "Desselecionar %d Item(ns)",
     "There is no workspace open...": "Não existe nenhuma área de trabalho aberta...",
-    "To create an Item (Block/Note), right-click and select what you want.\n\nClick the header of any Item to edit its properties.\n\nHold down Shift and drag a Selection Area.": "Para criar um Item (Bloco/Nota), clique com o botão direito e selecione o que deseja.\n\nClique no cabeçalho de qualquer Item para editar as suas propriedades.\n\nMantenha pressionada a tecla Shift e arraste uma Área de Seleção.",
+    "To create an Item (Block/Note), right-click and select the desired option.\n\nClick the header of any Item to edit its properties.\n\nHold down Shift and drag a Selection Area.": "Para criar um Item (Bloco/Nota), clique com o botão direito e selecione a opção desejada.\n\nClique no cabeçalho de qualquer Item para editar as suas propriedades.\n\nMantenha pressionada a tecla Shift e arraste uma Área de Seleção.",
     "Height": "Altura",
     "Width": "Largura",
     "Color": "Cor",
@@ -154,7 +154,7 @@
     "Discord RPC": "Discord RPC",
 
     "Dark Mode": "Modo Escuro",
-    "Darkens the colors in the app and it is better for your eyes in dark environments.": "Escurece as cores na app e é melhor para os seus olhos em ambientes escuros.",
+    "Darkens the colors in the app, which is better for your eyes in dark environments.": "Escurece as cores na app, sendo melhor para os seus olhos em ambientes escuros.",
     "System Preference": "Preferência de Sistema",
     "Enable": "Ativar",
     "Disable": "Desativar",
@@ -208,7 +208,7 @@
     "Developer Mode": "Modo de Desenvolvedor",
     "Developer Mode exposes the \"Developer\" menu with tools to help power users.": "O Modo de Desenvolvedor expõe o menu \"Desenvolvedor\" com ferramentas para ajudar utilizadores avançados.",
 
-    "When selecting any Block, the \"Rename Block\" button will appear and you can rename them to the desired Block (you need to know the Block's internal name, but still having the risk of losing all its data).": "Ao selecionar qualquer Bloco, aparecerá o botão \"Renomear Bloco\" e poderá renomeá-los para o Bloco desejado (é necessário saber o nome interno do Bloco, mas ainda correndo o risco de perder todos os seus dados).",
+    "When selecting any Block, the \"Rename Block\" button will appear, which allows you to rename it to the desired Block (you need to know the Block's internal name). When renaming a Block, there is a risk of losing all its data.": "Ao selecionar qualquer Bloco, aparecerá o botão \"Renomear Bloco\", podendo renomeá-los para o Bloco desejado (é necessário saber o nome interno do Bloco). Quando renomear o Bloco, existe o risco de perder todos os seus dados.",
 
     "Single Action Wire": "Fio de Ação Único",
     "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "A maioria dos utilizadores não precisa de fazer mais do que um fio a partir de um output do tipo \"Action\". Os fios existentes não são afetados.",

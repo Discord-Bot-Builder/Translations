@@ -63,7 +63,7 @@
     "Select All": "",
     "Unselect %d Item(s)": "",
     "There is no workspace open...": "",
-    "To create an Item (Block/Note), right-click and select what you want.\n\nClick the header of any Item to edit its properties.\n\nHold down Shift and drag a Selection Area.": "",
+    "To create an Item (Block/Note), right-click and select the desired option.\n\nClick the header of any Item to edit its properties.\n\nHold down Shift and drag a Selection Area.": "",
     "Height": "",
     "Width": "",
     "Color": "",
@@ -154,7 +154,7 @@
     "Discord RPC": "",
 
     "Dark Mode": "",
-    "Darkens the colors in the app and it is better for your eyes in dark environments.": "",
+    "Darkens the colors in the app, which is better for your eyes in dark environments.": "",
     "System Preference": "",
     "Enable": "",
     "Disable": "",
@@ -208,7 +208,7 @@
     "Developer Mode": "",
     "Developer Mode exposes the \"Developer\" menu with tools to help power users.": "",
 
-    "When selecting any Block, the \"Rename Block\" button will appear and you can rename them to the desired Block (you need to know the Block's internal name, but still having the risk of losing all its data).": "",
+    "When selecting any Block, the \"Rename Block\" button will appear, which allows you to rename it to the desired Block (you need to know the Block's internal name). When renaming a Block, there is a risk of losing all its data.": "",
 
     "Single Action Wire": "",
     "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "",
