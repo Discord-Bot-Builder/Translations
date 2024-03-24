@@ -3,6 +3,8 @@
 Use [blank.json](blank.json) and then make a pull request, or send to [MrGold](https://discord.gg/PAzxTDw) (DBB Developer) to help translate DBB v1.<br>
 Avoid using a translator, it's only advisable to be translated by native speakers! ⚠️
 
+Check out our [Crowdin](https://translate.dbb.software/) if you prefer!
+
 ## ✨ Contributors
 
 | Language         | Author(s)                                | Status      |
