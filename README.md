@@ -7,12 +7,13 @@ Avoid using a translator, it's only advisable to be translated by native speaker
 
 | Language         | Author(s)                                | Status                          |
 | ---------------- | ---------------------------------------- | ------------------------------- |
-| Portuguese 🇵🇹 🇧🇷  | MrGold                                   | Complete ✅                    |
+| Portuguese 🇵🇹 🇧🇷  | MrGold                                   | Complete ✅                     |
 | German 🇩🇪        | NotCallMeHacker, XCraftTM, ACertainCoder | Complete ✅                     |
-| Russian 🇷🇺       | Artem's nite                             | Incomplete (1.0.0-preview.3) ⚠️ |
-| Swedish 🇸🇪       | MissDaily                                | Incomplete (1.0.0-preview.3) ⚠️ |
-| Czech 🇨🇿         | Martin Skalicky                          | Incomplete (1.0.0-preview.3) ⚠️ |
-| Polish 🇵🇱        | Domin0221                                | Incomplete (1.0.0-preview.3) ⚠️ |
-| Hungarian 🇭🇺     | Zan1456                                  | Incomplete (1.0.0-preview.3) ⚠️ |
-| Dutch 🇳🇱         | Javs                                     | Incomplete (1.0.0-preview.3) ⚠️ |
+| Russian 🇷🇺       | Artem's nite                             | Complete ✅                     |
+| Swedish 🇸🇪       | MissDaily                                | Complete ✅                     |
+| Czech 🇨🇿         | Martin Skalicky                          | Complete ✅                     |
+| Polish 🇵🇱        | Domin0221                                | Complete ✅                     |
+| Hungarian 🇭🇺     | Zan1456                                  | Complete ✅                     |
+| Dutch 🇳🇱         | Javs                                     | Complete ✅                     |
 | French 🇫🇷        | slaycer                                  | Incomplete (1.0.0-preview.3) ⚠️ |
+| Spanish 🇪🇸 🇲🇽    | eldediamante                             | Complete ✅                     |

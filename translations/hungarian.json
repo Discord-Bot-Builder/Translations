@@ -194,6 +194,7 @@
     "Select a language": "Nyelv kiválasztása",
     "German": "Német",
     "English": "Angol",
+    "Spanish": "Spanyol",
     "French": "Francia",
     "Hungarian": "Magyar",
     "Dutch": "Holland",
@@ -202,7 +203,7 @@
     "Swedish": "Svéd",
     "Czech": "Cseh",
     "Russian": "Orosz",
-    "Most translations are made by the community and they may be incomplete, contain inaccuracies or have spelling mistakes. If you would like to help translate the app, check out our [translations repository](https://github.com/Discord-Bot-Builder/Translations).": "A legtöbb fordítást a közösség készíti, és előfordulhat, hogy hiányos, pontatlan vagy helyesírási hibás. Ha szeretnél segíteni az alkalmazás fordításában, nézd meg a [fordítások repository](https://github.com/Discord-Bot-Builder/Translations)-t.",
+    "Most translations are made by the community and they may be incomplete, contain inaccuracies or have spelling mistakes. If you would like to help translate the app, check out our [translations repository](https://github.com/Discord-Bot-Builder/Translations).": "A legtöbb fordítást a közösség készíti, és előfordulhat, hogy hiányos, pontatlan vagy helyesírási hibás. Ha szeretnél segíteni az alkalmazás fordításában, nézd meg a [fordítások tároló](https://github.com/Discord-Bot-Builder/Translations).",
 
     "Developer Mode": "Fejlesztői mód",
     "Developer Mode exposes the \"Developer\" menu with tools to help power users.": "A fejlesztői módban a \"Fejlesztő\" menü olyan eszközöket tartalmaz, amelyek segítik az ügyes felhasználókat.",
