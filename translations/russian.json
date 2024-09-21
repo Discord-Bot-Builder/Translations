@@ -23,8 +23,6 @@
     "Generate Bot Invite": "Сгенерировать Приглашение для Бота",
     "Set Bot Token": "Задать Токен Бота",
     "Set Bot Intents": "Задать Права Бота",
-    "Set Bot Main Prefix": "Задать Префикс Бота",
-    "Set Bot Owners": "Задать Владельцев Бота",
     "Update bot.js": "Обновить bot.js",
     "Import Blocks": "Импортировать Блоки",
     "Default Blocks": "Блоки По Умолчанию",
@@ -100,14 +98,7 @@
     "Change Bot Intents": "Изменить Права Бота",
     "Bot Intents": "Права Бота",
     "New bot intents": "Новые права бота",
-    "Type **3276799** if you want all intents (you have to enable all the bot's privileged intents in your [Discord Developer Portal](https://discord.com/developers/applications)).\nType **3243773** if you want no privileged intents (some blocks may not work).\nType **0** if you want no intents (more blocks may not work).": "Введите **3276799**, если вам нужны все права (вам необходимо включить все привилегированные права бота на вашем [Портале разработчиков Discord](https://discord.com/developers/applications)).\nВведите **3243773**  если вам не нужны привилегированные права (некоторые блоки могут не работать).\nВведите **0**, если вы не хотите никаких прав (больше блоков могут не работать).",
-    "Change Bot Main Prefix": "Изменить Основной Префикс Бота",
-    "Bot Main Prefix": "Новый Основной Префикс",
-    "New bot prefix": "Новый префикс бота",
-    "Change Bot Owner(s)": "Изменить Владельцев Бота",
-    "Bot Owner ID(s)": "ID Владельцев Бота",
-    "New user ID(s)": "Новые ID Владельцев",
-    "Separate each user ID with comma (e.g. \"1234567890, 9876543210\")": "Разделяйте каждый идентификатор пользователя запятой (например, \"1234567890, 9876543210\").",
+    "Type **ALL_PRIVILEGED_INTENTS** if you want all intents (you have to enable all the bot's privileged intents in your [Discord Developer Portal](https://discord.com/developers/applications)).\nType **ALL_INTENTS** if you want no privileged intents (some blocks may not work).\nLeave blank if you want no intents (more blocks may not work).": "Введите **ALL_PRIVILEGED_INTENTS**, если вам нужны все права (вам необходимо включить все привилегированные права бота на вашем [Портале разработчиков Discord](https://discord.com/developers/applications)).\nВведите **ALL_INTENTS**  если вам не нужны привилегированные права (некоторые блоки могут не работать).\nОставьте поле пустым, если вы не хотите никаких прав (больше блоков могут не работать).",
     "Image URL": "URL Изображения",
     "URL": "URL",
     "Download Block(s)": "Скачать Блок(и)",
@@ -174,6 +165,12 @@
     "Maximize Block Size": "Максимизировать Размер Блока",
     "When creating a Block that has scrollbar, maximize its size to view everything.": "При создании блока с полосой прокрутки увеличьте его размер, чтобы просмотреть всё его содержимое.",
 
+    "Oversimplify Items": "",
+    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "",
+
+    "Animated Item Preview": "",
+    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "",
+
     "Enable Backup": "Включить Бэкап",
     "Automatically backs up your open projects, so you can open them later in case of any accident, by going to Project > Open Backup.": "Автоматически создает бэкапы открытых проектов, чтобы вы могли открыть их позже в случае какой-либо проблемы, выбрав Проект > Открыть Бэкап.",
 
@@ -203,6 +200,9 @@
     "Swedish": "Шведский",
     "Czech": "Чешский",
     "Russian": "Русский",
+    "Thai": "Тайский",
+    "Japanese": "Японский",
+    "Korean": "Корейский",
     "Most translations are made by the community and they may be incomplete, contain inaccuracies or have spelling mistakes. If you would like to help translate the app, check out our [translations repository](https://github.com/Discord-Bot-Builder/Translations).": "Большинство переводов сделаны сообществом и могут быть неполными, содержать неточности или орфографические ошибки. Если вы хотите помочь перевести приложение, посетите наш [репозиторий переводов](https://github.com/Discord-Bot-Builder/Translations).",
 
     "Developer Mode": "Режим Разработчика",
@@ -212,6 +212,9 @@
 
     "Single Action Wire": "Одинарный провод \"Действие\"",
     "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "Большинству пользователей не требуется делать более одного провода от выхода типа \"Действие\". Существующие провода не затрагиваются.",
+
+    "Add starting block when creating workspace": "",
+    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "",
 
     "Discord Rich Presence": "Статус Активности В Discord",
     "Enable DBB Rich Presence in Discord": "Включает Статус Активности DBB в Discord",

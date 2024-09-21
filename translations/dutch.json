@@ -23,8 +23,6 @@
     "Generate Bot Invite": "Genereer Bot Uitnodiging",
     "Set Bot Token": "Zet Bot Token",
     "Set Bot Intents": "Zet Bot Intents",
-    "Set Bot Main Prefix": "Zet Bot Tekst Voorvoegsel",
-    "Set Bot Owners": "Zet Bot Eigenaar(s)",
     "Update bot.js": "Update bot.js",
     "Import Blocks": "Importeer blokken",
     "Default Blocks": "Standaard blokken",
@@ -100,14 +98,7 @@
     "Change Bot Intents": "Wijzig Bot Intents",
     "Bot Intents": "Bot Intents",
     "New bot intents": "Nieuwe Bot Intents",
-    "Type **3276799** if you want all intents (you have to enable all the bot's privileged intents in your [Discord Developer Portal](https://discord.com/developers/applications)).\nType **3243773** if you want no privileged intents (some blocks may not work).\nType **0** if you want no intents (more blocks may not work).": "Typ **3276799** als je alle 'intents' wilt (je moet alle 'privileged intents' aanzetten in [Discord Developer Portal](https://discord.com/developers/applications) hiervoor).\nTyp **3243773** als je geen 'privileged intents' wilt (Sommige Blocks werken mogelijk niet).\nTyp **0** als je geen intents wilt (meerdere Blocks gaan niet werken).",
-    "Change Bot Main Prefix": "Wijzig Bot Tekst Voorvoegsel",
-    "Bot Main Prefix": "Bot Tekst Voorvoegsel",
-    "New bot prefix": "Nieuwe Bot Tekst Voorvoegsel",
-    "Change Bot Owner(s)": "Wijzig Bot Eigenaar(s)",
-    "Bot Owner ID(s)": "Bot Eigenaar ID(s)",
-    "New user ID(s)": "Nieuwe Gebruiker ID(s)",
-    "Separate each user ID with comma (e.g. \"1234567890, 9876543210\")": "Scheid elke gebruiker ID met een komma (b.v. \"1234567890, 9876543210\")",
+    "Type **ALL_PRIVILEGED_INTENTS** if you want all intents (you have to enable all the bot's privileged intents in your [Discord Developer Portal](https://discord.com/developers/applications)).\nType **ALL_INTENTS** if you want no privileged intents (some blocks may not work).\nLeave blank if you want no intents (more blocks may not work).": "Typ **ALL_PRIVILEGED_INTENTS** als je alle 'intents' wilt (je moet alle 'privileged intents' aanzetten in [Discord Developer Portal](https://discord.com/developers/applications) hiervoor).\nTyp **ALL_INTENTS** als je geen 'privileged intents' wilt (Sommige Blocks werken mogelijk niet).\nLaat dit veld leeg als u geen intents wilt (meerdere Blocks gaan niet werken).",
     "Image URL": "Foto URL",
     "URL": "URL",
     "Download Block(s)": "Download blok(ken)",
@@ -174,6 +165,12 @@
     "Maximize Block Size": "Maximale blok grootte",
     "When creating a Block that has scrollbar, maximize its size to view everything.": "Wanneer je een blok hebt met een scrollbar, maximaliseer de grootte om alles te kunnen bekijken.",
 
+    "Oversimplify Items": "",
+    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "",
+
+    "Animated Item Preview": "",
+    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "",
+
     "Enable Backup": "Zet backups aan",
     "Automatically backs up your open projects, so you can open them later in case of any accident, by going to Project > Open Backup.": "Maakt automatisch back-ups van je open projecten, zodat je ze later open kan maken in het geval van een ongelukje of crash. Om open te maken ga naar Project > Open Backup.",
 
@@ -203,6 +200,9 @@
     "Swedish": "Zweeds",
     "Czech": "Tsjechisch",
     "Russian": "Russisch",
+    "Thai": "Thais",
+    "Japanese": "Japans",
+    "Korean": "Koreaans",
     "Most translations are made by the community and they may be incomplete, contain inaccuracies or have spelling mistakes. If you would like to help translate the app, check out our [translations repository](https://github.com/Discord-Bot-Builder/Translations).": "Meeste translaties zijn gemaakt door de community/leden van de Discord, hierdoor zijn er soms spelfouten of kloppen sommige translaties niet in de context. Als je mee wilt help met translaties verbeteren of nieuwe maken ga naar [opslagplaats voor vertalingen](https://github.com/Discord-Bot-Builder/Translations).",
 
     "Developer Mode": "Ontwikkelaars modus",
@@ -212,6 +212,9 @@
 
     "Single Action Wire": "Enkele Actie Lijn",
     "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "De meeste gebruikers hoeven niet meer dan een lijn te maken vanaf een uitgang met het type \"Actie\". Bestaande lijnen worden niet beinvloed.",
+
+    "Add starting block when creating workspace": "",
+    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "",
 
     "Discord Rich Presence": "Discord Rich Presence",
     "Enable DBB Rich Presence in Discord": "Zet DBB Rich Presence aan in Discord",

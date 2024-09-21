@@ -23,8 +23,6 @@
     "Generate Bot Invite": "Vygeneroval přihlášku bota",
     "Set Bot Token": "Nastavit token bota",
     "Set Bot Intents": "Nastavit intents bota",
-    "Set Bot Main Prefix": "Nastavit hlavní předponu (prefix) bota",
-    "Set Bot Owners": "Nastavit majitele bota",
     "Update bot.js": "Aktualizovat bot.js",
     "Import Blocks": "Importovat bloky",
     "Default Blocks": "Výchozí bloky",
@@ -100,14 +98,7 @@
     "Change Bot Intents": "Změnit intents bota",
     "Bot Intents": "Bot Intents",
     "New bot intents": "Nové intents bota",
-    "Type **3276799** if you want all intents (you have to enable all the bot's privileged intents in your [Discord Developer Portal](https://discord.com/developers/applications)).\nType **3243773** if you want no privileged intents (some blocks may not work).\nType **0** if you want no intents (more blocks may not work).": "Zadejte **3276799**, pokud chcete použít všechny intents (Musíte povolit všechny intents botů na portálu [Discord Developer Portal](https://discord.com/developers/applications)).\nPokud nechcete žádné intents, zadejte **3243773** (Některé bloky nemusí fungovat).\nPokud nechcete žádné intents, zadejte **0** (více bloků nemusí fungovat).",
-    "Change Bot Main Prefix": "Změnit hlavní předponu (prefix) bota",
-    "Bot Main Prefix": "Hlavní předpona (prefix) bota",
-    "New bot prefix": "Nová hlavní předpona (prefix) bota",
-    "Change Bot Owner(s)": "Změnit majitele bota",
-    "Bot Owner ID(s)": "ID(s) majitele/ů bota",
-    "New user ID(s)": "ID(s) uživatele/ů",
-    "Separate each user ID with comma (e.g. \"1234567890, 9876543210\")": "Odděl každé ID uživatele čárkou (př. \"1234567890, 9876543210\")",
+    "Type **ALL_PRIVILEGED_INTENTS** if you want all intents (you have to enable all the bot's privileged intents in your [Discord Developer Portal](https://discord.com/developers/applications)).\nType **ALL_INTENTS** if you want no privileged intents (some blocks may not work).\nLeave blank if you want no intents (more blocks may not work).": "Zadejte **ALL_PRIVILEGED_INTENTS**, pokud chcete použít všechny intents (Musíte povolit všechny intents botů na portálu [Discord Developer Portal](https://discord.com/developers/applications)).\nPokud nechcete žádné privilegované intents, zadejte **ALL_INTENTS** (Některé bloky nemusí fungovat).\nPokud nechcete žádné intents, nechte prázdné (více bloků nemusí fungovat).",
     "Image URL": "URL obrázku",
     "URL": "URL",
     "Download Block(s)": "Stáhnout blok(y)",
@@ -174,6 +165,12 @@
     "Maximize Block Size": "Maximalizovat velikost bloku",
     "When creating a Block that has scrollbar, maximize its size to view everything.": "Při vytváření bloku, který má posuvník, maximalizovat jeho velikost, aby šlo vše vidět.",
 
+    "Oversimplify Items": "",
+    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "",
+
+    "Animated Item Preview": "",
+    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "",
+
     "Enable Backup": "Povolit zálohování",
     "Automatically backs up your open projects, so you can open them later in case of any accident, by going to Project > Open Backup.": "Automaticky zálohuje otevřené projekty, které jdou v případě pádu aplikace otevřít v Projekt > Otevřít zálohu.",
 
@@ -203,6 +200,9 @@
     "Swedish": "Švédština",
     "Czech": "Čeština",
     "Russian": "Ruština",
+    "Thai": "Thajština",
+    "Japanese": "Japonština",
+    "Korean": "Korejština",
     "Most translations are made by the community and they may be incomplete, contain inaccuracies or have spelling mistakes. If you would like to help translate the app, check out our [translations repository](https://github.com/Discord-Bot-Builder/Translations).": "Většina překladů je vytvářena komunitou a mohou být neúplné, obsahovat nepřesnosti nebo pravopisné chyby. Pokud byste chtěli pomoci s překladem aplikace, podívejte se na náš [překladatelský repozitář](https://github.com/Discord-Bot-Builder/Translations).",
 
     "Developer Mode": "Vývojářský režim",
@@ -212,6 +212,9 @@
 
     "Single Action Wire": "Propojení s jednou akcí",
     "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "Většina uživatelů nepotřebuje vytvořit více než jedno propojení z výstupu s typem \"Akce\". Stávající propojení nejsou ovlivněny.",
+
+    "Add starting block when creating workspace": "",
+    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "",
 
     "Discord Rich Presence": "Discord Rich Presence (Aktivita)",
     "Enable DBB Rich Presence in Discord": "Povolit aktivitu DBB na Discordu",

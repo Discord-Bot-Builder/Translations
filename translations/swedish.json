@@ -23,8 +23,6 @@
     "Generate Bot Invite": "Generera Bot Inbjudan",
     "Set Bot Token": "Sätt Bot Token",
     "Set Bot Intents": "Sätt Bot Avsikter",
-    "Set Bot Main Prefix": "Sätt Bot Huvud Prefix",
-    "Set Bot Owners": "Sätt Bot Ägare",
     "Update bot.js": "Updatera Bot.js",
     "Import Blocks": "Importera Blocks",
     "Default Blocks": "Standard Blocks",
@@ -100,14 +98,7 @@
     "Change Bot Intents": "Ändra Bot Avsikter",
     "Bot Intents": "Bot Avsikter",
     "New bot intents": "Ny Bot Avsikter",
-    "Type **3276799** if you want all intents (you have to enable all the bot's privileged intents in your [Discord Developer Portal](https://discord.com/developers/applications)).\nType **3243773** if you want no privileged intents (some blocks may not work).\nType **0** if you want no intents (more blocks may not work).": "Skriv **3276799** om du vill ha alla avsikter (du måste aktivera alla botens privilegierade avsikter i din [Discord-Utvecklarportal](https://discord.com/developers/applications)).\nSkriv **3243773** om du inte vill ha några privilegierade avsikter (vissa block kanske inte fungerar).\nSkriv **0** om du inte vill ha några avsikter (fler block kanske inte fungerar).",
-    "Change Bot Main Prefix": "Ändra/Byt Bot Huvud Prefix",
-    "Bot Main Prefix": "Bot Huvud Prefix",
-    "New bot prefix": "Ny Bot Prefix",
-    "Change Bot Owner(s)": "Ändra/Byt Bot ägare/Ägarna",
-    "Bot Owner ID(s)": "Bot Ägar ID:en",
-    "New user ID(s)": "Ny Användar ID:en",
-    "Separate each user ID with comma (e.g. \"1234567890, 9876543210\")": "Separera varje avändare ID med ett komma (exempel \"1234567890, 9876543210\")",
+    "Type **ALL_PRIVILEGED_INTENTS** if you want all intents (you have to enable all the bot's privileged intents in your [Discord Developer Portal](https://discord.com/developers/applications)).\nType **ALL_INTENTS** if you want no privileged intents (some blocks may not work).\nLeave blank if you want no intents (more blocks may not work).": "Skriv **ALL_PRIVILEGED_INTENTS** om du vill ha alla avsikter (du måste aktivera alla botens privilegierade avsikter i din [Discord-Utvecklarportal](https://discord.com/developers/applications)).\nSkriv **ALL_INTENTS** om du inte vill ha några privilegierade avsikter (vissa block kanske inte fungerar).\nLämna tomt om du inte vill ha några avsikter (fler block kanske inte fungerar).",
     "Image URL": "Bild URL",
     "URL": "URL",
     "Download Block(s)": "Laddar ner block(er)",
@@ -174,6 +165,12 @@
     "Maximize Block Size": "Maximera blockstorleken",
     "When creating a Block that has scrollbar, maximize its size to view everything.": "När du skapar ett block som man kan skrolla på, maximera dess storlek för att se allt.",
 
+    "Oversimplify Items": "",
+    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "",
+
+    "Animated Item Preview": "",
+    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "",
+
     "Enable Backup": "Aktivera säkerhetskopiering",
     "Automatically backs up your open projects, so you can open them later in case of any accident, by going to Project > Open Backup.": "Säkerhetskopierar automatiskt dina öppna projekt, så att du kan öppna dem senare i händelse av en olycka, genom att gå till Projekt > Öppna säkerhetskopia.",
 
@@ -203,6 +200,9 @@
     "Swedish": "Svenska",
     "Czech": "Tjeckiska",
     "Russian": "Ryska",
+    "Thai": "Thailändska",
+    "Japanese": "Japanska",
+    "Korean": "Koreanska",
     "Most translations are made by the community and they may be incomplete, contain inaccuracies or have spelling mistakes. If you would like to help translate the app, check out our [translations repository](https://github.com/Discord-Bot-Builder/Translations).": "De flesta översättningar görs av communityn och de kan vara ofullständiga, innehålla felaktigheter eller ha stavfel. Om du vill hjälpa till att översätta appen, kolla in vårt [översättningsarkiv](https://github.com/Discord-Bot-Builder/Translations).",
 
     "Developer Mode": "Utvecklarläge",
@@ -212,6 +212,9 @@
 
     "Single Action Wire": "Ensam Action tråd",
     "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "De flesta användare behöver inte göra mer än en tråd från en utgång med typen \"Action\". Befintliga ledningar påverkas inte.",
+
+    "Add starting block when creating workspace": "",
+    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "",
 
     "Discord Rich Presence": "Discord rik närvaro",
     "Enable DBB Rich Presence in Discord": "Aktivera DBB Rich Presence i Discord",

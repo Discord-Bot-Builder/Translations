@@ -23,8 +23,6 @@
     "Generate Bot Invite": "Generuj Zaproszenie Bota",
     "Set Bot Token": "Ustaw Token Bota",
     "Set Bot Intents": "Ustaw Intencje Bota",
-    "Set Bot Main Prefix": "Ustaw Główny Prefiks Bota",
-    "Set Bot Owners": "Ustaw Właścicieli Bota",
     "Update bot.js": "Aktualizuj bot.js",
     "Import Blocks": "Importuj Bloki",
     "Default Blocks": "Domyślne Bloki",
@@ -100,14 +98,7 @@
     "Change Bot Intents": "Zmień Intencje Bota",
     "Bot Intents": "Intencje Bota",
     "New bot intents": "Nowe intencje bota",
-    "Type **3276799** if you want all intents (you have to enable all the bot's privileged intents in your [Discord Developer Portal](https://discord.com/developers/applications)).\nType **3243773** if you want no privileged intents (some blocks may not work).\nType **0** if you want no intents (more blocks may not work).": "Wpisz **3276799**, jeśli chcesz wszystkie intencje (musisz włączyć wszystkie uprzywilejowane intencje bota w swoim [Portalu Deweloperskim Discorda](https://discord.com/developers/applications)).\nWpisz **3243773**, jeśli nie chcesz uprzywilejowanych intencji (niektóre bloki mogą nie działać).\nWpisz **0**, jeśli nie chcesz żadnych intencji (więcej bloków może nie działać).",
-    "Change Bot Main Prefix": "Zmień Główny Prefiks Bota",
-    "Bot Main Prefix": "Główny Prefiks Bota",
-    "New bot prefix": "Nowy prefiks bota",
-    "Change Bot Owner(s)": "Zmień Właściciela(-ów) Bota",
-    "Bot Owner ID(s)": "ID Właściciela(-ów) Bota",
-    "New user ID(s)": "Nowe ID użytkownika(-ów)",
-    "Separate each user ID with comma (e.g. \"1234567890, 9876543210\")": "Oddziel każde ID użytkownika przecinkiem (np. \"1234567890, 9876543210\")",
+    "Type **ALL_PRIVILEGED_INTENTS** if you want all intents (you have to enable all the bot's privileged intents in your [Discord Developer Portal](https://discord.com/developers/applications)).\nType **ALL_INTENTS** if you want no privileged intents (some blocks may not work).\nLeave blank if you want no intents (more blocks may not work).": "Wpisz **ALL_PRIVILEGED_INTENTS**, jeśli chcesz wszystkie intencje (musisz włączyć wszystkie uprzywilejowane intencje bota w swoim [Portalu Deweloperskim Discorda](https://discord.com/developers/applications)).\nWpisz **ALL_INTENTS**, jeśli nie chcesz uprzywilejowanych intencji (niektóre bloki mogą nie działać).\nPozostaw puste, jeśli nie chcesz żadnych intencji (więcej bloków może nie działać).",
     "Image URL": "URL Obrazka",
     "URL": "URL",
     "Download Block(s)": "Pobierz Blok(i)",
@@ -174,6 +165,12 @@
     "Maximize Block Size": "Maksymalizuj Rozmiar Bloku",
     "When creating a Block that has scrollbar, maximize its size to view everything.": "Podczas tworzenia Bloku posiadającego pasek przewijania, maksymalizuj jego rozmiar, aby wyświetlić wszystko.",
 
+    "Oversimplify Items": "",
+    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "",
+
+    "Animated Item Preview": "",
+    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "",
+
     "Enable Backup": "Włącz Kopię Zapasową",
     "Automatically backs up your open projects, so you can open them later in case of any accident, by going to Project > Open Backup.": "Automatycznie tworzy kopie zapasowe Twoich otwartych projektów, dzięki czemu możesz je później otworzyć w przypadku jakichkolwiek awarii, przechodząc do Projekt > Otwórz Kopię Zapasową.",
 
@@ -203,6 +200,9 @@
     "Swedish": "Szwedzki",
     "Czech": "Czeski",
     "Russian": "Rosyjski",
+    "Thai": "Tajski",
+    "Japanese": "Japoński",
+    "Korean": "Koreański",
     "Most translations are made by the community and they may be incomplete, contain inaccuracies or have spelling mistakes. If you would like to help translate the app, check out our [translations repository](https://github.com/Discord-Bot-Builder/Translations).": "Większość tłumaczeń jest tworzona przez społeczność i mogą być one niekompletne, zawierać nieścisłości lub błędy w pisowni. Jeśli chcesz pomóc w tłumaczeniu aplikacji, zajrzyj do naszego [repozytorium tłumaczeń](https://github.com/Discord-Bot-Builder/Translations).",
 
     "Developer Mode": "Tryb Dewelopera",
@@ -212,6 +212,9 @@
 
     "Single Action Wire": "Przewód Jednoakcyjny",
     "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "Większość użytkowników nie potrzebuje tworzyć więcej niż jeden przewód z wyjścia o typie \"Action\". Nie ma to wpływu na istniejące przewody.",
+
+    "Add starting block when creating workspace": "",
+    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "",
 
     "Discord Rich Presence": "Discord Rich Presence",
     "Enable DBB Rich Presence in Discord": "Włącz \"Rich Presence\" od DBB na Discordzie",

@@ -23,8 +23,6 @@
     "Generate Bot Invite": "",
     "Set Bot Token": "",
     "Set Bot Intents": "",
-    "Set Bot Main Prefix": "",
-    "Set Bot Owners": "",
     "Update bot.js": "",
     "Import Blocks": "",
     "Default Blocks": "",
@@ -100,14 +98,7 @@
     "Change Bot Intents": "",
     "Bot Intents": "",
     "New bot intents": "",
-    "Type **3276799** if you want all intents (you have to enable all the bot's privileged intents in your [Discord Developer Portal](https://discord.com/developers/applications)).\nType **3243773** if you want no privileged intents (some blocks may not work).\nType **0** if you want no intents (more blocks may not work).": "",
-    "Change Bot Main Prefix": "",
-    "Bot Main Prefix": "",
-    "New bot prefix": "",
-    "Change Bot Owner(s)": "",
-    "Bot Owner ID(s)": "",
-    "New user ID(s)": "",
-    "Separate each user ID with comma (e.g. \"1234567890, 9876543210\")": "",
+    "Type **ALL_PRIVILEGED_INTENTS** if you want all intents (you have to enable all the bot's privileged intents in your [Discord Developer Portal](https://discord.com/developers/applications)).\nType **ALL_INTENTS** if you want no privileged intents (some blocks may not work).\nLeave blank if you want no intents (more blocks may not work).": "",
     "Image URL": "",
     "URL": "",
     "Download Block(s)": "",
@@ -174,6 +165,12 @@
     "Maximize Block Size": "",
     "When creating a Block that has scrollbar, maximize its size to view everything.": "",
 
+    "Oversimplify Items": "",
+    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "",
+
+    "Animated Item Preview": "",
+    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "",
+
     "Enable Backup": "",
     "Automatically backs up your open projects, so you can open them later in case of any accident, by going to Project > Open Backup.": "",
 
@@ -203,6 +200,9 @@
     "Swedish": "",
     "Czech": "",
     "Russian": "",
+    "Thai": "",
+    "Japanese": "",
+    "Korean": "",
     "Most translations are made by the community and they may be incomplete, contain inaccuracies or have spelling mistakes. If you would like to help translate the app, check out our [translations repository](https://github.com/Discord-Bot-Builder/Translations).": "",
 
     "Developer Mode": "",
@@ -212,6 +212,9 @@
 
     "Single Action Wire": "",
     "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "",
+
+    "Add starting block when creating workspace": "",
+    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "",
 
     "Discord Rich Presence": "",
     "Enable DBB Rich Presence in Discord": "",

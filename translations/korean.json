@@ -23,8 +23,6 @@
     "Generate Bot Invite": "봇 초대 생성",
     "Set Bot Token": "봇 토큰 설정",
     "Set Bot Intents": "봇 인텐트 설정",
-    "Set Bot Main Prefix": "봇 주요 접두사 설정",
-    "Set Bot Owners": "봇 소유자 설정",
     "Update bot.js": "bot.js 업데이트",
     "Import Blocks": "블록 가져오기",
     "Default Blocks": "기본 블록",
@@ -100,14 +98,7 @@
     "Change Bot Intents": "봇 인텐트 변경",
     "Bot Intents": "봇 인텐트",
     "New bot intents": "새 봇 인텐트",
-    "Type **3276799** if you want all intents (you have to enable all the bot's privileged intents in your [Discord Developer Portal](https://discord.com/developers/applications)).\nType **3243773** if you want no privileged intents (some blocks may not work).\nType **0** if you want no intents (more blocks may not work).": "모든 인텐트를 원하면 **3276799**을 입력하세요 (봇의 모든 특권 인텐트를 [Discord 개발자 포털](https://discord.com/developers/applications)에서 활성화해야 합니다).\n특권 인텐트를 원하지 않으면 **3243773**을 입력하세요 (일부 블록이 작동하지 않을 수 있습니다).\n인텐트를 원하지 않으면 **0**을 입력하세요 (더 많은 블록이 작동하지 않을 수 있습니다).",
-    "Change Bot Main Prefix": "봇 주요 접두사 변경",
-    "Bot Main Prefix": "봇 주요 접두사",
-    "New bot prefix": "새 봇 접두사",
-    "Change Bot Owner(s)": "봇 소유자 변경",
-    "Bot Owner ID(s)": "봇 소유자 ID",
-    "New user ID(s)": "새 사용자 ID",
-    "Separate each user ID with comma (e.g. \"1234567890, 9876543210\")": "각 사용자 ID를 쉼표로 구분하세요 (예: \"1234567890, 9876543210\")",
+    "Type **ALL_PRIVILEGED_INTENTS** if you want all intents (you have to enable all the bot's privileged intents in your [Discord Developer Portal](https://discord.com/developers/applications)).\nType **ALL_INTENTS** if you want no privileged intents (some blocks may not work).\nLeave blank if you want no intents (more blocks may not work).": "모든 인텐트를 원하면 **ALL_PRIVILEGED_INTENTS**을 입력하세요 (봇의 모든 특권 인텐트를 [Discord 개발자 포털](https://discord.com/developers/applications)에서 활성화해야 합니다).\n특권 인텐트를 원하지 않으면 **ALL_INTENTS**을 입력하세요 (일부 블록이 작동하지 않을 수 있습니다).\n인텐트를 원하지 않는 경우 비워두세요 (더 많은 블록이 작동하지 않을 수 있습니다).",
     "Image URL": "이미지 URL",
     "URL": "URL",
     "Download Block(s)": "블록 다운로드",
@@ -174,6 +165,12 @@
     "Maximize Block Size": "블록 크기 최대로",
     "When creating a Block that has scrollbar, maximize its size to view everything.": "스크롤바가 있는 블록을 만들 때 모든 내용을 보기 위해 크기를 최대로 합니다.",
 
+    "Oversimplify Items": "",
+    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "",
+
+    "Animated Item Preview": "",
+    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "",
+
     "Enable Backup": "백업 활성화",
     "Automatically backs up your open projects, so you can open them later in case of any accident, by going to Project > Open Backup.": "열린 프로젝트를 자동으로 백업하여 사고가 발생할 경우 나중에 프로젝트 > 백업 열기에서 열 수 있습니다.",
 
@@ -203,6 +200,9 @@
     "Swedish": "스웨덴어",
     "Czech": "체코어",
     "Russian": "러시아어",
+    "Thai": "태국어",
+    "Japanese": "일본어",
+    "Korean": "한국어",
     "Most translations are made by the community and they may be incomplete, contain inaccuracies or have spelling mistakes. If you would like to help translate the app, check out our [translations repository](https://github.com/Discord-Bot-Builder/Translations).": "대부분의 번역은 커뮤니티에서 만들어지며 불완전하거나 부정확하거나 철자 오류가 있을 수 있습니다. 앱 번역을 도와주고 싶다면 [번역 리포지토리](https://github.com/Discord-Bot-Builder/Translations)를 확인하세요.",
 
     "Developer Mode": "개발자 모드",
@@ -212,6 +212,9 @@
 
     "Single Action Wire": "단일 액션 와이어",
     "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "대부분의 사용자는 \"액션\" 유형의 출력에서 하나 이상의 와이어를 만들 필요가 없습니다. 기존 와이어는 영향을 받지 않습니다.",
+
+    "Add starting block when creating workspace": "",
+    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "",
 
     "Discord Rich Presence": "디스코드 리치 프레즌스",
     "Enable DBB Rich Presence in Discord": "디스코드에서 DBB 리치 프레즌스 활성화",

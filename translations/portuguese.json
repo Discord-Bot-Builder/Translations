@@ -23,8 +23,6 @@
     "Generate Bot Invite": "Gerar Convite do Bot",
     "Set Bot Token": "Definir Token do Bot",
     "Set Bot Intents": "Definir Intenções do Bot",
-    "Set Bot Main Prefix": "Definir Prefixo Principal do Bot",
-    "Set Bot Owners": "Definir Donos do Bot",
     "Update bot.js": "Atualizar bot.js",
     "Import Blocks": "Importar Blocos",
     "Default Blocks": "Blocos Predefinidos",
@@ -100,14 +98,7 @@
     "Change Bot Intents": "Mudar Intenções do Bot",
     "Bot Intents": "Intenções do Bot",
     "New bot intents": "Novas intenções do bot",
-    "Type **3276799** if you want all intents (you have to enable all the bot's privileged intents in your [Discord Developer Portal](https://discord.com/developers/applications)).\nType **3243773** if you want no privileged intents (some blocks may not work).\nType **0** if you want no intents (more blocks may not work).": "Digite **3276799** se quiser todas as intenções (tem de ativar todas as intenções privilegiadas do bot no seu [Portal de Desenvolvedor do Discord](https://discord.com/developers/applications)).\nDigite **3243773** se não quiser intenções privilegiadas (alguns blocos podem não funcionar).\nDigite **0** se não quiser nenhuma intenção (mais blocos podem não funcionar).",
-    "Change Bot Main Prefix": "Mudar Prefixo Principal do Bot",
-    "Bot Main Prefix": "Prefixo Principal do Bot",
-    "New bot prefix": "Novo prefixo do bot",
-    "Change Bot Owner(s)": "Mudar Dono(s) do Bot",
-    "Bot Owner ID(s)": "ID(s) do(s) Dono(s) do Bot",
-    "New user ID(s)": "Novo(s) ID(s) dos utilizador(es)",
-    "Separate each user ID with comma (e.g. \"1234567890, 9876543210\")": "Separe cada ID do utilizador com vírgula (ex.: \"1234567890, 9876543210\")",
+    "Type **ALL_PRIVILEGED_INTENTS** if you want all intents (you have to enable all the bot's privileged intents in your [Discord Developer Portal](https://discord.com/developers/applications)).\nType **ALL_INTENTS** if you want no privileged intents (some blocks may not work).\nLeave blank if you want no intents (more blocks may not work).": "Digite **ALL_PRIVILEGED_INTENTS** se quiser todas as intenções (tem de ativar todas as intenções privilegiadas do bot no seu [Portal de Desenvolvedor do Discord](https://discord.com/developers/applications)).\nDigite **ALL_INTENTS** se não quiser intenções privilegiadas (alguns blocos podem não funcionar).\nDeixe em branco se não quiser nenhuma intenção (mais blocos podem não funcionar).",
     "Image URL": "URL da Imagem",
     "URL": "URL",
     "Download Block(s)": "Descarregar Bloco(s)",
@@ -174,6 +165,12 @@
     "Maximize Block Size": "Maximizar o Tamanho do Bloco",
     "When creating a Block that has scrollbar, maximize its size to view everything.": "Ao criar um bloco com scroll, maximize o seu tamanho para ver tudo.",
 
+    "Oversimplify Items": "Simplificar Itens",
+    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "Ao diminuir o zoom numa grande área de trabalho, os blocos e as notas serão (excessivamente) simplificados para um melhor desempenho.",
+
+    "Animated Item Preview": "Pré-Visualização de Item Animado",
+    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "Quando passa o rato sobre um item no Navegador de itens, este é pré-visualizado com uma animação 3D.",
+
     "Enable Backup": "Ativar Backup",
     "Automatically backs up your open projects, so you can open them later in case of any accident, by going to Project > Open Backup.": "Faz automaticamente backup dos seus projetos abertos, para que os possa abrir mais tarde em caso dalgum acidente, indo a Projeto > Abrir Backup.",
 
@@ -203,6 +200,9 @@
     "Swedish": "Sueco",
     "Czech": "Checo",
     "Russian": "Russo",
+    "Thai": "Tailandês",
+    "Japanese": "Japonês",
+    "Korean": "Coreano",
     "Most translations are made by the community and they may be incomplete, contain inaccuracies or have spelling mistakes. If you would like to help translate the app, check out our [translations repository](https://github.com/Discord-Bot-Builder/Translations).": "A maioria das traduções é feita pela comunidade e podem estar incompletas, conter imprecisões ou ter erros ortográficos. Se quiser ajudar a traduzir a app, consulte o nosso [repositório de traduções](https://github.com/Discord-Bot-Builder/Translations).",
 
     "Developer Mode": "Modo de Desenvolvedor",
@@ -212,6 +212,9 @@
 
     "Single Action Wire": "Fio de Ação Único",
     "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "A maioria dos utilizadores não precisa de fazer mais do que um fio a partir de um output do tipo \"Action\". Os fios existentes não são afetados.",
+
+    "Add starting block when creating workspace": "Adicionar bloco inicial ao criar uma área de trabalho",
+    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "Ao criar uma área de trabalho, o bloco \"bot_initialization_event\" será colocado automaticamente.",
 
     "Discord Rich Presence": "Rich Presence do Discord",
     "Enable DBB Rich Presence in Discord": "Ativar a Rich Presence do DBB no Discord",
