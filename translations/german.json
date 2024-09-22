@@ -162,11 +162,11 @@
     "Snap Items to Grid": "Elemente am Raster ausrichten",
     "When moving or resizing items, align them with the grid to maintain consistency.": "Wenn Elemente verschoben oder ihre Größe angepasst wird, richten sie sich am Raster aus, um die Konsistenz zu gewährleisten.",
 
-    "Oversimplify Items": "",
-    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "",
+    "Oversimplify Items": "Elemente übermäßig vereinfachen",
+    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "Beim Verkleinern eines großen Arbeitsbereichs werden die Blöcke und Notizen (übermäßig) vereinfacht für bessere Leistung.",
 
-    "Animated Item Preview": "",
-    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "",
+    "Animated Item Preview": "Animierte Elementvorschau",
+    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "Wenn du deine Maus über ein Element in der Elementübersicht haltest, wird eine Vorschau des Elements mit 3D-Animation angezeigt.",
 
     "Maximize Block Size": "Block Größe beibehalten",
     "When creating a Block that has scrollbar, maximize its size to view everything.": "Wenn ein Block mit einer Bildlaufleiste erstellt wird, erweitere den Block, um alles anzuzeigen.",
@@ -213,8 +213,8 @@
     "Single Action Wire": "Single Action Draht",
     "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "Die meisten Benutzer müssen nicht mehr als einen Draht aus einem Ausgang mit dem Typ \"Action\" herstellen. Vorhandene Drähte sind davon nicht betroffen.",
 
-    "Add starting block when creating workspace": "",
-    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "",
+    "Add starting block when creating workspace": "Startblock beim Erstellen eines Arbeitsbereichs hinzuzufügen",
+    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "Beim Erstellen eines Arbeitsbereichs wird der \"bot_initialization_event\"-Block automatisch platziert.",
 
     "Discord Rich Presence": "Discord Aktivitätsstatus",
     "Enable DBB Rich Presence in Discord": "DBB Aktivitätsstatus in Discord aktivieren",
