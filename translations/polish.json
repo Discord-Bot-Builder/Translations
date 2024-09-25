@@ -165,11 +165,11 @@
     "Maximize Block Size": "Maksymalizuj Rozmiar Bloku",
     "When creating a Block that has scrollbar, maximize its size to view everything.": "Podczas tworzenia Bloku posiadającego pasek przewijania, maksymalizuj jego rozmiar, aby wyświetlić wszystko.",
 
-    "Oversimplify Items": "",
-    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "",
+    "Oversimplify Items": "Nadmiernie Uprość Elementy",
+    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "Podczas oddalania dużej przestrzeni roboczej bloki i notatki zostaną (nadmiernie) uproszczone dla lepszej wydajności.",
 
-    "Animated Item Preview": "",
-    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "",
+    "Animated Item Preview": "Animowany Podgląd Elementu",
+    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "Kiedy najedziesz kursorem na element w Przeglądarce Elementów, zostanie on zaprezentowany w formie animacji 3D.",
 
     "Enable Backup": "Włącz Kopię Zapasową",
     "Automatically backs up your open projects, so you can open them later in case of any accident, by going to Project > Open Backup.": "Automatycznie tworzy kopie zapasowe Twoich otwartych projektów, dzięki czemu możesz je później otworzyć w przypadku jakichkolwiek awarii, przechodząc do Projekt > Otwórz Kopię Zapasową.",
@@ -213,8 +213,8 @@
     "Single Action Wire": "Przewód Jednoakcyjny",
     "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "Większość użytkowników nie potrzebuje tworzyć więcej niż jeden przewód z wyjścia o typie \"Action\". Nie ma to wpływu na istniejące przewody.",
 
-    "Add starting block when creating workspace": "",
-    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "",
+    "Add starting block when creating workspace": "Dodaj blok początkowy podczas tworzenia przestrzeni roboczej",
+    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "Podczas tworzenia przestrzeni roboczej blok \"bot_initialization_event\" zostanie umieszczony automatycznie.",
 
     "Discord Rich Presence": "Discord Rich Presence",
     "Enable DBB Rich Presence in Discord": "Włącz \"Rich Presence\" od DBB na Discordzie",

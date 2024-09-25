@@ -50,8 +50,8 @@
 
     "Search": "Sök",
     "Create Workspace": "Skapa Arbetsplats",
-    "ON": "PÅ",
-    "OFF": "AV",
+    "ON": "På",
+    "OFF": "Av",
 
     "Workspace Info": "Arbetsplats Info",
 
@@ -69,13 +69,13 @@
     "Description": "Beskrivning",
     "Delete": "Radera",
 
-    "Change Banner": "Ändra Baner",
+    "Change Banner": "Ändra Banner",
     "Change Color": "Ändra Färg",
     "Turn Workspace ON/OFF": "Sätt På Arbetsplats",
-    "Copy Workspace Data": "Copiera Arbetsplats Data",
+    "Copy Workspace Data": "Kopiera Arbetsplats Data",
     "Paste Workspace Data": "Klistra in Arbetsplats Data",
     "Copy Workspace ID": "Kopiera Arbetsplats ID",
-    "Copied!": "Copierad!",
+    "Copied!": "Kopierad!",
     "Delete Workspace": "Radera Arbetsplats",
     "Open Workspace": "Öppna Arbetsplats",
     "Note": "Antekning",
@@ -165,11 +165,11 @@
     "Maximize Block Size": "Maximera blockstorleken",
     "When creating a Block that has scrollbar, maximize its size to view everything.": "När du skapar ett block som man kan skrolla på, maximera dess storlek för att se allt.",
 
-    "Oversimplify Items": "",
-    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "",
+    "Oversimplify Items": "Förenkla Föremål",
+    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "När du zoomar ut på en stor arbetsyta kommer blocken och anteckningarna att (överdrivet) förenklas för bättre prestanda.",
 
-    "Animated Item Preview": "",
-    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "",
+    "Animated Item Preview": "Förhandsvisning av animerad objekt",
+    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "När du för muspekaren över ett objekt i objektbläddraren kommer det att förhandsgranska objektet med en 3D-animation.",
 
     "Enable Backup": "Aktivera säkerhetskopiering",
     "Automatically backs up your open projects, so you can open them later in case of any accident, by going to Project > Open Backup.": "Säkerhetskopierar automatiskt dina öppna projekt, så att du kan öppna dem senare i händelse av en olycka, genom att gå till Projekt > Öppna säkerhetskopia.",
@@ -213,8 +213,8 @@
     "Single Action Wire": "Ensam Action tråd",
     "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "De flesta användare behöver inte göra mer än en tråd från en utgång med typen \"Action\". Befintliga ledningar påverkas inte.",
 
-    "Add starting block when creating workspace": "",
-    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "",
+    "Add starting block when creating workspace": "Lägg till startblock när du skapar arbetsyta",
+    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.",
 
     "Discord Rich Presence": "Discord rik närvaro",
     "Enable DBB Rich Presence in Discord": "Aktivera DBB Rich Presence i Discord",

@@ -165,11 +165,11 @@
     "Maximize Block Size": "Maximale blok grootte",
     "When creating a Block that has scrollbar, maximize its size to view everything.": "Wanneer je een blok hebt met een scrollbar, maximaliseer de grootte om alles te kunnen bekijken.",
 
-    "Oversimplify Items": "",
-    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "",
+    "Oversimplify Items": "Item Simplificeren",
+    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "Bij het uitzoomen van een grotere werkruimte zullen blokken en notities gesimplificeert worden voor betere prestaties.",
 
-    "Animated Item Preview": "",
-    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "",
+    "Animated Item Preview": "Geanimeerd itemvoorbeeld",
+    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "Wanneer u in de Itembrowser over een item beweegt, wordt een voorbeeld van het item weergegeven met een 3D-animatie.",
 
     "Enable Backup": "Zet backups aan",
     "Automatically backs up your open projects, so you can open them later in case of any accident, by going to Project > Open Backup.": "Maakt automatisch back-ups van je open projecten, zodat je ze later open kan maken in het geval van een ongelukje of crash. Om open te maken ga naar Project > Open Backup.",
@@ -213,8 +213,8 @@
     "Single Action Wire": "Enkele Actie Lijn",
     "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "De meeste gebruikers hoeven niet meer dan een lijn te maken vanaf een uitgang met het type \"Actie\". Bestaande lijnen worden niet beinvloed.",
 
-    "Add starting block when creating workspace": "",
-    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "",
+    "Add starting block when creating workspace": "Voeg start-blok toe bij het creëren van werkruimte",
+    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "Bij het aanmaken van een werkruimte wordt het blok \"bot_initialization_event\" automatisch geplaatst.",
 
     "Discord Rich Presence": "Discord Rich Presence",
     "Enable DBB Rich Presence in Discord": "Zet DBB Rich Presence aan in Discord",

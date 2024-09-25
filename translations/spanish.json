@@ -75,7 +75,7 @@
     "Copy Workspace Data": "Copiar Datos del Espacio de Trabajo",
     "Paste Workspace Data": "Pegar Datos del Espacio de Trabajo",
     "Copy Workspace ID": "Copiar ID del Espacio de Trabajo",
-    "Copied!": "Copiado!",
+    "Copied!": "¡Copiado!",
     "Delete Workspace": "Eliminar Espacio de Trabajo",
     "Open Workspace": "Abrir Espacio de Trabajo",
     "Note": "Nota",
@@ -83,7 +83,7 @@
 
     "Search...": "Buscar...",
     "Click the Block to add or hover it to preview": "Haz clic en el Bloque para añadirlo o pasa el ratón por encima para previsualizarlo",
-    "No blocks available...": "Ningún bloque disponible",
+    "No blocks available...": "Ningún bloque disponible...",
     "Create Note": "Crear Nota",
     "Helps to document and organize the blocks within it.": "Ayudate documentando y organizando los bloques que tienes.",
 
@@ -162,11 +162,11 @@
     "Snap Items to Grid": "Ajustar Elementos a la Cuadrícula",
     "When moving or resizing items, align them with the grid to maintain consistency.": "Al mover o cambiar el tamaño de los elementos, alinéelos con la cuadrícula para mantener la coherencia.",
 
-    "Oversimplify Items": "",
-    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "",
+    "Oversimplify Items": "Simplificación excesiva",
+    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "Al alejar el zoom en un espacio de trabajo grande, los bloques y las notas se simplificarán (en exceso) para mejorar el rendimiento.",
 
-    "Animated Item Preview": "",
-    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "",
+    "Animated Item Preview": "Vista previa animada de elementos",
+    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "Cuando pase el ratón por encima de un elemento en el navegador de elementos, se mostrará una vista previa del elemento con una animación en 3D.",
 
     "Maximize Block Size": "Maximizar el Tamaño de Bloque",
     "When creating a Block that has scrollbar, maximize its size to view everything.": "Cuando cree un bloque que tenga barra de desplazamiento, maximice su tamaño para verlo todo.",
@@ -213,8 +213,8 @@
     "Single Action Wire": "Cable de Acción Única",
     "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "La mayoría de los usuarios no necesitan hacer más de un cable de una salida con tipo \"Acción\". Los cables existentes no se ven afectados.",
 
-    "Add starting block when creating workspace": "",
-    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "",
+    "Add starting block when creating workspace": "Añadir bloque inicial al crear espacio de trabajo",
+    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "Al crear un espacio de trabajo, el bloque \"bot_initialization_event\" se colocará automáticamente.",
 
     "Discord Rich Presence": "Estado Actividad en Discord",
     "Enable DBB Rich Presence in Discord": "Activar el estado de actividad con DBB en Discord",

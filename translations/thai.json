@@ -129,7 +129,7 @@
     "Click \"Open Invite\" to redirect you to the Discord's invite webpage for your bot.": "คลิก \"เปิดอินไวท์\" เพื่อไปเว็บไซต์ของ Discord สำหรับการเชิญบอทคุณ",
     "Open Invite": "เปิดอินไวท์",
     "Copy Invite": "คอปปี้อินไวท์",
-    "Can't generate the bot invite": "ทำบอทอินไวท์ไม่สำเร็จ",
+    "Can't generate the bot invite": "ทำบอทอินไวท์ไม่ได้",
     "Make sure the bot token is valid or try again later.": "ดูว่าบอทโทเค็นถูกหรือเปล่าหรือลองใหม่",
     "Version:": "รุ่น",
     "Developer:": "นักพัฒนา",
@@ -165,11 +165,11 @@
     "Maximize Block Size": "ขยายขนาดบล็อกให้สุด",
     "When creating a Block that has scrollbar, maximize its size to view everything.": "เวลาสร้างบล็อกที่มีแถบเลื่อน ขยายขนาดให้สุดเพื่อเห็นได้ทุกอย่าง",
 
-    "Oversimplify Items": "",
-    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "",
+    "Oversimplify Items": "ความละเอียดของหน่อย",
+    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "เวลาซูมออกในที่ทำงานใหญ่ ความละเอียดของพวกบล็อกและที่จดจะน้อยลงเพื่อผลงาน",
 
-    "Animated Item Preview": "",
-    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "",
+    "Animated Item Preview": "ตัวอย่างของด้วยแอนิเมชั่น",
+    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "เวละอยู่บนของในที่เลือกของ มันจะแสดงของด้วยแอนิเมชั่น 3 มิติ",
 
     "Enable Backup": "เปิดการใช้แบ็กอัพ",
     "Automatically backs up your open projects, so you can open them later in case of any accident, by going to Project > Open Backup.": "แบ็กอัพโปรเจคของคุณแบบอัตโนมัติเพื่อที่คุณจะได้เปิดทีหลังในสถานการณ์ฉุกเฉินโดยไปที่โปรเจค > เปิดแบ็กอัพ",
@@ -213,8 +213,8 @@
     "Single Action Wire": "สายแอ็คชั่นเดียว",
     "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "ผู้ใช้หลายคนไม่ต้องใช้สายแอ็คชั่นมากกว่า 1 เส้นจากจุดทางออกแบบ\"แอ็คชั่น\" สายที่มีอยู่จะไม่มีการเปลี่ยน",
 
-    "Add starting block when creating workspace": "",
-    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "",
+    "Add starting block when creating workspace": "ใส่บล็อกเริ่มเวลาสร้างที่ทำงาน",
+    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "เวลาสร้างที่ทำงาน บล็อก\"bot_initialization_event\" จะถูกวางอย่างอัตโนมัติ",
 
     "Discord Rich Presence": "สถานะกิจกรรม Discord",
     "Enable DBB Rich Presence in Discord": "เปิดการใช้สถานะกิจกรรมของดีบีบีใน Discord ของคุณ",

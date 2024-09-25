@@ -165,11 +165,11 @@
     "Maximize Block Size": "Maximalizovat velikost bloku",
     "When creating a Block that has scrollbar, maximize its size to view everything.": "Při vytváření bloku, který má posuvník, maximalizovat jeho velikost, aby šlo vše vidět.",
 
-    "Oversimplify Items": "",
-    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "",
+    "Oversimplify Items": "Zjednodušit předmety",
+    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "Při oddálení ve velkém pracovním prostoru, bloky a poznámky budou zjednodušeny pro lepší výkon.",
 
-    "Animated Item Preview": "",
-    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "",
+    "Animated Item Preview": "Náhled animovaného přemětu",
+    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "Při přejetí přes předmět v prohlížeči předmětů, ukáže náhled předmětu s 3D animací",
 
     "Enable Backup": "Povolit zálohování",
     "Automatically backs up your open projects, so you can open them later in case of any accident, by going to Project > Open Backup.": "Automaticky zálohuje otevřené projekty, které jdou v případě pádu aplikace otevřít v Projekt > Otevřít zálohu.",
@@ -213,8 +213,8 @@
     "Single Action Wire": "Propojení s jednou akcí",
     "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "Většina uživatelů nepotřebuje vytvořit více než jedno propojení z výstupu s typem \"Akce\". Stávající propojení nejsou ovlivněny.",
 
-    "Add starting block when creating workspace": "",
-    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "",
+    "Add starting block when creating workspace": "Přidat startovní blok při vytváření pracovního prostoru",
+    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "Při vytváření pracovního prostoru bude blok \"bot_initialization_event\" přidán automaticky.",
 
     "Discord Rich Presence": "Discord Rich Presence (Aktivita)",
     "Enable DBB Rich Presence in Discord": "Povolit aktivitu DBB na Discordu",
