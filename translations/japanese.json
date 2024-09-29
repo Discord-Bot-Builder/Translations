@@ -165,11 +165,11 @@
     "Maximize Block Size": "ブロックサイズを最大化",
     "When creating a Block that has scrollbar, maximize its size to view everything.": "スクロールバーのあるブロックを作成するときは、すべてを表示できるようにサイズを最大化します。",
 
-    "Oversimplify Items": "",
-    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "",
+    "Oversimplify Items": "アイテムの単純化",
+    "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "大きなワークスペースをズームアウトすると、ブロックとノートが（過度に）簡略化され、パフォーマンスが向上する。",
 
-    "Animated Item Preview": "",
-    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "",
+    "Animated Item Preview": "アニメーションによるアイテムのプレビュー",
+    "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "アイテムブラウザでアイテムにカーソルを合わせると、3Dアニメーションでプレビューされます。",
 
     "Enable Backup": "自動バックアップを有効化",
     "Automatically backs up your open projects, so you can open them later in case of any accident, by going to Project > Open Backup.": "開いているプロジェクトを自動的にバックアップするので、プロジェクト>バックアップを開く に移動すると、万が一の場合でも後で開くことができます。",
@@ -182,7 +182,7 @@
     "30 minutes": "30分",
     "1 hour": "1時間",
 
-    "Max Backups": "最大バックアップ",
+    "Max Backups": "最大バックアップ数",
     "Specify the maximum amount of recent backups to keep. Be aware that setting the number too high will take up a lot of storage. This action will not take effect immediately.": "保存する最新のバックアップの最大量を指定します。設定値が大きすぎると、大量のストレージが消費されることに注意してください。このアクションはすぐには有効になりません。",
 
     "Backup raw project when opening": "プロジェクトを開くときにそのままバックアップする",
@@ -213,8 +213,8 @@
     "Single Action Wire": "シングルアクションワイヤー",
     "Most users do not need to make more than one wire from an output with \"Action\" type. Existing wires are not affected.": "ほとんどのユーザーは、\"アクション\"タイプの出力から一本より多いワイヤーを作る必要はありません。",
 
-    "Add starting block when creating workspace": "",
-    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "",
+    "Add starting block when creating workspace": "ワークスペース作成時にスタートブロックを追加する",
+    "When creating a workspace, the \"bot_initialization_event\" block will be placed automatically.": "ワークスペースを作成すると、自動的に \"bot_initialization_event\" ブロックが配置されます。",
 
     "Discord Rich Presence": "Discord リッチプレゼンス",
     "Enable DBB Rich Presence in Discord": "DiscordでDBBリッチプレゼンスを有効化",
