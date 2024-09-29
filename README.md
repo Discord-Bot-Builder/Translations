@@ -15,10 +15,10 @@ Check out our [Crowdin](https://translate.dbb.software/) if you prefer!
 | Swedish 🇸🇪       | MissDaily                                | Complete ✅                     |
 | Czech 🇨🇿         | Martin Skalicky                          | Complete ✅                     |
 | Polish 🇵🇱        | Domin0221                                | Complete ✅                     |
-| Hungarian 🇭🇺     | Zan1456                                  | Incomplete (1.0.0-preview.4) ⚠️ |
+| Hungarian 🇭🇺     | Zan1456                                  | Complete ✅                     |
 | Dutch 🇳🇱         | Javs                                     | Complete ✅                     |
 | French 🇫🇷        | slaycer                                  | Incomplete (1.0.0-preview.4) ⚠️ |
 | Spanish 🇪🇸 🇲🇽    | eldediamante                             | Complete ✅                     |
-| Thai 🇹🇭          | Simba 🦁                                 | Complete ✅                     |
-| Japanese 🇯🇵      | NPC                                      | Incomplete (1.0.0-preview.4) ⚠️ |
+| Thai 🇹🇭          | Simba 🦁                                | Complete ✅                     |
+| Japanese 🇯🇵      | NPC                                      | Complete ✅                     |
 | Korean 🇰🇷        | Svelion, Null                            | Complete ✅                     |
