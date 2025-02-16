@@ -9,6 +9,7 @@
     "Open Backups Folder": "Open Backups Map",
     "Save": "Opslaan",
     "Save As": "Opslaan Als",
+    "Reload": "",
     "Close Project": "Sluit Project",
     "Close Window": "Sluit Venster",
     "Exit": "Sluiten",
@@ -18,6 +19,27 @@
     "Redo": "Herhalen",
     "Copy": "Kopiëren",
     "Paste": "Plakken",
+    "View": "",
+    "Move": "",
+    "Up": "",
+    "Down": "",
+    "Left": "",
+    "Right": "",
+    "Reset Position": "",
+    "Zoom": "",
+    "Zoom In": "",
+    "Zoom Out": "",
+    "Reset Zoom": "",
+    "Tabs": "",
+    "Close Tab": "",
+    "Close Other Tabs": "",
+    "Close Tabs to Left": "",
+    "Close Tabs to Right": "",
+    "Close All Tabs": "",
+    "Reopen Closed Tab": "",
+    "Switch Tab": "",
+    "Next Tab": "",
+    "Previous Tab": "",
     "Bot": "Bot",
     "Start Bot": "Start Bot",
     "Generate Bot Invite": "Genereer Bot Uitnodiging",
@@ -48,8 +70,12 @@
     "What's New": "Wat is nieuw",
     "Show More": "Meer weergeven",
 
+    "Rename Project": "",
+    "Change Project Icon": "",
+    "Remove Project Icon": "",
+    "Remove Recent": "",
+
     "Search": "Opzoeken",
-    "Create Workspace": "Nieuwe Werkruimte",
     "ON": "AAN",
     "OFF": "UIT",
 
@@ -57,6 +83,8 @@
 
     "Show Item Properties": "Toon Item eigenschappen",
     "Hide Item Properties": "Verstop Item eigenschappen",
+
+    "Search for:": "",
 
     "Select All": "Selecteer Alles",
     "Unselect %d Item(s)": "Deselecteer %d Item(s)",
@@ -68,6 +96,10 @@
     "Title": "Titel",
     "Description": "Beschrijving",
     "Delete": "Verwijder",
+    "Enable Block": "",
+    "Disable Block": "",
+    "Lock": "",
+    "Unlock": "",
 
     "Change Banner": "Wijzig Banner",
     "Change Color": "Wijzig Kleur",
@@ -87,6 +119,28 @@
     "Create Note": "Nieuwe Notitie",
     "Helps to document and organize the blocks within it.": "Helpt bij het documenteren en ordenen van de blokken erin.",
 
+    "Create Workspace": "Nieuwe Werkruimte",
+    "Create Category": "",
+    "Hide Disabled Workspaces": "",
+
+    "Collapse Category": "",
+    "Collapse All Categories": "",
+    "Rename Category": "",
+    "Delete Category": "",
+    "Copy Category ID": "",
+
+    "action": "",
+    "unspecified": "",
+    "null": "",
+    "object": "",
+    "boolean": "",
+    "date": "",
+    "number": "",
+    "text": "",
+    "list": "",
+
+    "Project Name": "",
+    "Category Name": "",
     "Rename Block": "Hernoem Block",
     "Block Name": "Block Naam",
     "New block name": "Nieuwe Block Naam",
@@ -109,6 +163,8 @@
     "Change": "Wijzig",
     "Rename": "Hernoemen",
 
+    "Are you sure you want to delete the \"%s\" category?": "",
+    "Delete All": "",
     "Are you sure you want to delete the \"%s\" workspace?": "Weet je zeker dat je de werkruimte \"%s\" wilt verwijderen?",
     "Are you sure you want to paste here the new workspace data?": "Weet je zeker dat je de werkruimte data hier wilt plakken?",
     "You cannot undo this action.": "Je kan deze actie niet ongedaan maken.",
@@ -139,6 +195,7 @@
     "Appearance": "Uiterlijk",
     "Workspace": "Werkruimte",
     "Backup": "Backup",
+    "Keybinds": "",
     "Language": "Taal",
     "Advanced": "Geavanceerd",
     "Activity Settings": "Activiteit Instellingen",
@@ -161,9 +218,6 @@
 
     "Snap Items to Grid": "Items vastmaken aan raster",
     "When moving or resizing items, align them with the grid to maintain consistency.": "Wanneer je items verplaats of vergroot, lijn ze dan uit met het raster om het netjes te houden.",
-
-    "Maximize Block Size": "Maximale blok grootte",
-    "When creating a Block that has scrollbar, maximize its size to view everything.": "Wanneer je een blok hebt met een scrollbar, maximaliseer de grootte om alles te kunnen bekijken.",
 
     "Oversimplify Items": "Item Simplificeren",
     "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "Bij het uitzoomen van een grotere werkruimte zullen blokken en notities gesimplificeert worden voor betere prestaties.",
@@ -200,6 +254,7 @@
     "Swedish": "Zweeds",
     "Czech": "Tsjechisch",
     "Russian": "Russisch",
+    "Ukrainian": "Oekraïens",
     "Thai": "Thais",
     "Japanese": "Japans",
     "Korean": "Koreaans",
@@ -207,6 +262,9 @@
 
     "Developer Mode": "Ontwikkelaars modus",
     "Developer Mode exposes the \"Developer\" menu with tools to help power users.": "Ontwikkelaars modus maakt het \"Ontwikkelaar\" menu beschikbaar. Dit is voor ervaren gebruikers.",
+
+    "External Bot Terminal": "",
+    "Using an external terminal to run your bot requires having Node.js installed on your computer.": "",
 
     "When selecting any Block, the \"Rename Block\" button will appear, which allows you to rename it to the desired Block (you need to know the Block's internal name). When renaming a Block, there is a risk of losing all its data.": "Bij het selecteren van een blok, komt het \"Hernoem blok\" menu naar voren, hierbij kan je hem hernoemen naar een andere blok (Hierbij moet je de blok zijn programma naam kennen anders kan hij onbeschikbaar worden en interne data verliezen).",
 

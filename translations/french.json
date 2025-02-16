@@ -9,6 +9,7 @@
     "Open Backups Folder": "Ouvrir le dossier de sauvegarde",
     "Save": "Enregistrer",
     "Save As": "Enregistrer sous",
+    "Reload": "",
     "Close Project": "Fermer le projet",
     "Close Window": "Fermer la fenêtre",
     "Exit": "Quitter",
@@ -18,6 +19,27 @@
     "Redo": "Répéter",
     "Copy": "Copier",
     "Paste": "Coller",
+    "View": "",
+    "Move": "",
+    "Up": "",
+    "Down": "",
+    "Left": "",
+    "Right": "",
+    "Reset Position": "",
+    "Zoom": "",
+    "Zoom In": "",
+    "Zoom Out": "",
+    "Reset Zoom": "",
+    "Tabs": "",
+    "Close Tab": "",
+    "Close Other Tabs": "",
+    "Close Tabs to Left": "",
+    "Close Tabs to Right": "",
+    "Close All Tabs": "",
+    "Reopen Closed Tab": "",
+    "Switch Tab": "",
+    "Next Tab": "",
+    "Previous Tab": "",
     "Bot": "Bot",
     "Start Bot": "Démarrer le bot",
     "Generate Bot Invite": "Créer une invitation de bot",
@@ -48,8 +70,12 @@
     "What's New": "Nouveautés",
     "Show More": "Afficher plus",
 
+    "Rename Project": "",
+    "Change Project Icon": "",
+    "Remove Project Icon": "",
+    "Remove Recent": "",
+
     "Search": "Rechercher",
-    "Create Workspace": "Créer un espace de travail",
     "ON": "Activé",
     "OFF": "Désactivé",
 
@@ -57,6 +83,8 @@
 
     "Show Item Properties": "Afficher les propriétés de l'élément",
     "Hide Item Properties": "Masquer les propriétés de l'élément",
+
+    "Search for:": "",
 
     "Select All": "Sélectionner tout",
     "Unselect %d Item(s)": "Désélectionner %d élément(s)",
@@ -68,6 +96,10 @@
     "Title": "Titre",
     "Description": "description",
     "Delete": "Supprimer",
+    "Enable Block": "",
+    "Disable Block": "",
+    "Lock": "",
+    "Unlock": "",
 
     "Change Banner": "Modifier la bannière",
     "Change Color": "changer la couleur",
@@ -87,6 +119,28 @@
     "Create Note": "Créer une note",
     "Helps to document and organize the blocks within it": "Aide à documenter et à organiser les blocs",
 
+    "Create Workspace": "Créer un espace de travail",
+    "Create Category": "",
+    "Hide Disabled Workspaces": "",
+
+    "Collapse Category": "",
+    "Collapse All Categories": "",
+    "Rename Category": "",
+    "Delete Category": "",
+    "Copy Category ID": "",
+
+    "action": "",
+    "unspecified": "",
+    "null": "",
+    "object": "",
+    "boolean": "",
+    "date": "",
+    "number": "",
+    "text": "",
+    "list": "",
+
+    "Project Name": "",
+    "Category Name": "",
     "Rename Block": "Renommer le bloc",
     "Block Name": "Nom de bloc",
     "New block name": "Nouveau nom de bloc",
@@ -109,6 +163,8 @@
     "Change": "Modifier",
     "Rename": "Renommer",
 
+    "Are you sure you want to delete the \"%s\" category?": "",
+    "Delete All": "",
     "Are you sure you want to delete the \"%s\" workspace ?": "Êtes-vous sûr que l'espace de travail \"%s\" doit être supprimé ?",
     "Are you sure you want to paste here the new workspace data ?": "Êtes-vous sûr que les nouvelles données de l'espace de travail doivent être collées ici ?",
     "You cannot undo this action": "Cette action ne peut pas être annulée",
@@ -139,6 +195,7 @@
     "Appearance": "Apparence",
     "Workspace": "Espace de Travail",
     "Backup": "Sauvegarde",
+    "Keybinds": "",
     "Language": "Langue",
     "Advanced": "Avancé",
     "Activity Settings": "Paramètres d'activité",
@@ -167,9 +224,6 @@
 
     "Animated Item Preview": "",
     "When you hover over an item in the Item Browser, it will preview the item with a 3D animation.": "",
-
-    "Maximize Block Size": "Maximiser la taille des blocs",
-    "When creating a Block that has scrollbar, maximize its size to view everything.": "Lorsque vous créez un bloc doté d'une barre de défilement, agrandissez-le au maximum pour tout voir.",
 
     "Enable Backup": "Activer la sauvegarde",
     "Automatically backs up your open projects, so you can open them later in case of any accident, by going to Project > Open Backup.": "Sauvegarde automatiquement vos projets ouverts, afin que vous puissiez les ouvrir plus tard en cas d'accident, en allant dans Projet > Ouvrir la sauvegarde.",
@@ -200,6 +254,7 @@
     "Swedish": "Suédois",
     "Czech": "Tchèque",
     "Russian": "Russe",
+    "Ukrainian": "Ukrainien",
     "Thai": "Thaï",
     "Japanese": "Japonais",
     "Korean": "Coréen",
@@ -207,6 +262,9 @@
 
     "Developer Mode": "Mode développeur",
     "Developer Mode exposes the \"Developer\" menu with tools to help power users.": "Le mode développeur expose le menu \"Développeur\" avec des outils pour aider les utilisateurs chevronnés.",
+
+    "External Bot Terminal": "",
+    "Using an external terminal to run your bot requires having Node.js installed on your computer.": "",
 
     "When selecting any Block, the \"Rename Block\" button will appear, which allows you to rename it to the desired Block (you need to know the Block's internal name). When renaming a Block, there is a risk of losing all its data.": "Lorsque vous sélectionnez un bloc, le bouton \"Renommer le bloc\" apparaît et vous pouvez le renommer dans le bloc souhaité (vous devez connaître le nom interne du bloc, mais vous risquez de perdre toutes ses données).",
 

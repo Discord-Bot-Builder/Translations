@@ -9,6 +9,7 @@
     "Open Backups Folder": "Öppna Reserv Mappen",
     "Save": "Spara",
     "Save As": "Spara Som",
+    "Reload": "",
     "Close Project": "Stäng Projekt",
     "Close Window": "Stäng Fönster",
     "Exit": "Lämna",
@@ -18,6 +19,27 @@
     "Redo": "Gör om",
     "Copy": "Kopiera",
     "Paste": "Klistra in",
+    "View": "",
+    "Move": "",
+    "Up": "",
+    "Down": "",
+    "Left": "",
+    "Right": "",
+    "Reset Position": "",
+    "Zoom": "",
+    "Zoom In": "",
+    "Zoom Out": "",
+    "Reset Zoom": "",
+    "Tabs": "",
+    "Close Tab": "",
+    "Close Other Tabs": "",
+    "Close Tabs to Left": "",
+    "Close Tabs to Right": "",
+    "Close All Tabs": "",
+    "Reopen Closed Tab": "",
+    "Switch Tab": "",
+    "Next Tab": "",
+    "Previous Tab": "",
     "Bot": "Bot",
     "Start Bot": "Starta Bot",
     "Generate Bot Invite": "Generera Bot Inbjudan",
@@ -48,8 +70,12 @@
     "What's New": "Nyheter",
     "Show More": "Visa mer",
 
+    "Rename Project": "",
+    "Change Project Icon": "",
+    "Remove Project Icon": "",
+    "Remove Recent": "",
+
     "Search": "Sök",
-    "Create Workspace": "Skapa Arbetsplats",
     "ON": "På",
     "OFF": "Av",
 
@@ -57,6 +83,8 @@
 
     "Show Item Properties": "Visa objekt egenskaper",
     "Hide Item Properties": "Göm objekt egenskaper",
+
+    "Search for:": "",
 
     "Select All": "Välj Alla",
     "Unselect %d Item(s)": "Avmarkera %d objekt",
@@ -68,6 +96,10 @@
     "Title": "Titel",
     "Description": "Beskrivning",
     "Delete": "Radera",
+    "Enable Block": "",
+    "Disable Block": "",
+    "Lock": "",
+    "Unlock": "",
 
     "Change Banner": "Ändra Banner",
     "Change Color": "Ändra Färg",
@@ -87,6 +119,28 @@
     "Create Note": "Skapa Antekning",
     "Helps to document and organize the blocks within it.": "Hjälper att dokumentera eller organisera blocken inom det/den.",
 
+    "Create Workspace": "Skapa Arbetsplats",
+    "Create Category": "",
+    "Hide Disabled Workspaces": "",
+
+    "Collapse Category": "",
+    "Collapse All Categories": "",
+    "Rename Category": "",
+    "Delete Category": "",
+    "Copy Category ID": "",
+
+    "action": "",
+    "unspecified": "",
+    "null": "",
+    "object": "",
+    "boolean": "",
+    "date": "",
+    "number": "",
+    "text": "",
+    "list": "",
+
+    "Project Name": "",
+    "Category Name": "",
     "Rename Block": "Byt namn på block",
     "Block Name": "Block Namn",
     "New block name": "Ny Block Namn",
@@ -109,6 +163,8 @@
     "Change": "Ändra/Byt",
     "Rename": "Byt Namn",
 
+    "Are you sure you want to delete the \"%s\" category?": "",
+    "Delete All": "",
     "Are you sure you want to delete the \"%s\" workspace?": "Är du säker på att du vill avbryta \"%s\" Arbetsplats?",
     "Are you sure you want to paste here the new workspace data?": "Är du säker på att du vill klistra in den nya Arbetsplats Datan?",
     "You cannot undo this action.": "Denna Handling kan inte ändras.",
@@ -139,6 +195,7 @@
     "Appearance": "Utseende",
     "Workspace": "Arbetsplats",
     "Backup": "Säkerhetskopiering",
+    "Keybinds": "",
     "Language": "Språk",
     "Advanced": "Avancerad",
     "Activity Settings": "Aktivitetsinställningar",
@@ -161,9 +218,6 @@
 
     "Snap Items to Grid": "Fäst objekt till rutnät",
     "When moving or resizing items, align them with the grid to maintain consistency.": "När du flyttar eller ändrar storlek på objekt, justera dem med rutnätet för att bibehålla konsistens.",
-
-    "Maximize Block Size": "Maximera blockstorleken",
-    "When creating a Block that has scrollbar, maximize its size to view everything.": "När du skapar ett block som man kan skrolla på, maximera dess storlek för att se allt.",
 
     "Oversimplify Items": "Förenkla Föremål",
     "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "När du zoomar ut på en stor arbetsyta kommer blocken och anteckningarna att (överdrivet) förenklas för bättre prestanda.",
@@ -200,6 +254,7 @@
     "Swedish": "Svenska",
     "Czech": "Tjeckiska",
     "Russian": "Ryska",
+    "Ukrainian": "Ukrainska",
     "Thai": "Thailändska",
     "Japanese": "Japanska",
     "Korean": "Koreanska",
@@ -207,6 +262,9 @@
 
     "Developer Mode": "Utvecklarläge",
     "Developer Mode exposes the \"Developer\" menu with tools to help power users.": "Utvecklarläget visar \"Utvecklare\"-menyn med verktyg som hjälper avancerade användare.",
+
+    "External Bot Terminal": "",
+    "Using an external terminal to run your bot requires having Node.js installed on your computer.": "",
 
     "When selecting any Block, the \"Rename Block\" button will appear, which allows you to rename it to the desired Block (you need to know the Block's internal name). When renaming a Block, there is a risk of losing all its data.": "När du väljer ett block kommer knappen \"Byt namn på block\" att visas och du kan byta namn på dem till önskat block (du måste känna till blockets interna namn, men fortfarande riskera att förlora all data).",
 

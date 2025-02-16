@@ -9,6 +9,7 @@
     "Open Backups Folder": "Abrir Pasta de Backups",
     "Save": "Salvar",
     "Save As": "Salvar Como",
+    "Reload": "Recarregar",
     "Close Project": "Fechar Projeto",
     "Close Window": "Fechar Janela",
     "Exit": "Sair",
@@ -18,6 +19,27 @@
     "Redo": "Refazer",
     "Copy": "Copiar",
     "Paste": "Colar",
+    "View": "Ver",
+    "Move": "Mover",
+    "Up": "Cima",
+    "Down": "Baixo",
+    "Left": "Esquerda",
+    "Right": "Direita",
+    "Reset Position": "Redefinir Posição",
+    "Zoom": "Zoom",
+    "Zoom In": "Ampliar",
+    "Zoom Out": "Reduzir",
+    "Reset Zoom": "Redefinir Zoom",
+    "Tabs": "Abas",
+    "Close Tab": "Fechar Aba",
+    "Close Other Tabs": "Fechar Outras Abas",
+    "Close Tabs to Left": "Fechar Abas à Esquerda",
+    "Close Tabs to Right": "Fechar Abas à Direita",
+    "Close All Tabs": "Fechar Todas Abas",
+    "Reopen Closed Tab": "Reabrir Aba Fechada",
+    "Switch Tab": "Alternar Aba",
+    "Next Tab": "Próxima Aba",
+    "Previous Tab": "Aba Anterior",
     "Bot": "Bot",
     "Start Bot": "Iniciar Bot",
     "Generate Bot Invite": "Gerar Convite do Bot",
@@ -48,8 +70,12 @@
     "What's New": "Novidades",
     "Show More": "Mostrar Mais",
 
+    "Rename Project": "Renomear Projeto",
+    "Change Project Icon": "Mudar Ícone do Projeto",
+    "Remove Project Icon": "Remover Ícone do Projeto",
+    "Remove Recent": "Remover Recente",
+
     "Search": "Pesquisar",
-    "Create Workspace": "Criar Área de Trabalho",
     "ON": "Ligado",
     "OFF": "Desligado",
 
@@ -57,6 +83,8 @@
 
     "Show Item Properties": "Mostrar Propriedades do Item",
     "Hide Item Properties": "Ocultar Propriedades do Item",
+
+    "Search for:": "Pesquisar por:",
 
     "Select All": "Selecionar Tudo",
     "Unselect %d Item(s)": "Desselecionar %d Item(ns)",
@@ -68,6 +96,10 @@
     "Title": "Título",
     "Description": "Descrição",
     "Delete": "Apagar",
+    "Enable Block": "Ativar Bloco",
+    "Disable Block": "Desativar Bloco",
+    "Lock": "Bloquear",
+    "Unlock": "Desbloquear",
 
     "Change Banner": "Mudar Faixa",
     "Change Color": "Mudar Cor",
@@ -87,6 +119,28 @@
     "Create Note": "Criar Nota",
     "Helps to document and organize the blocks within it.": "Ajuda a documentar e a organizar os blocos dentro dele.",
 
+    "Create Workspace": "Criar Área de Trabalho",
+    "Create Category": "Criar Categoria",
+    "Hide Disabled Workspaces": "Ocultar Área de Trabalho Desativados",
+
+    "Collapse Category": "Recolher Categoria",
+    "Collapse All Categories": "Recolher Todas Categorias",
+    "Rename Category": "Renomear Categoria",
+    "Delete Category": "Apagar Categoria",
+    "Copy Category ID": "Copiar ID da Categoria",
+
+    "action": "ação",
+    "unspecified": "não especificado",
+    "null": "nulo",
+    "object": "objeto",
+    "boolean": "booleano",
+    "date": "data",
+    "number": "número",
+    "text": "texto",
+    "list": "lista",
+
+    "Project Name": "Nome do Projeto",
+    "Category Name": "Nome da Categoria",
     "Rename Block": "Renomear Bloco",
     "Block Name": "Nome do Bloco",
     "New block name": "Novo nome do bloco",
@@ -109,6 +163,8 @@
     "Change": "Mudar",
     "Rename": "Renomear",
 
+    "Are you sure you want to delete the \"%s\" category?": "Tem a certeza de que pretende eliminar a categoria \"%s\"?",
+    "Delete All": "Apagar Tudo",
     "Are you sure you want to delete the \"%s\" workspace?": "Tem a certeza de que pretende apagar a área de trabalho \"%s\"?",
     "Are you sure you want to paste here the new workspace data?": "Tem a certeza de que pretende colar aqui os dados da nova área de trabalho?",
     "You cannot undo this action.": "Não pode anular esta ação.",
@@ -139,6 +195,7 @@
     "Appearance": "Aparência",
     "Workspace": "Área de Trabalho",
     "Backup": "Backup",
+    "Keybinds": "Atalhos do Teclado",
     "Language": "Idioma",
     "Advanced": "Avançado",
     "Activity Settings": "Config. de Atividade",
@@ -161,9 +218,6 @@
 
     "Snap Items to Grid": "Ajustar Itens à Grade",
     "When moving or resizing items, align them with the grid to maintain consistency.": "Ao mover ou redimensionar itens, alinhe-os com a grade para manter a consistência.",
-
-    "Maximize Block Size": "Maximizar o Tamanho do Bloco",
-    "When creating a Block that has scrollbar, maximize its size to view everything.": "Ao criar um bloco com scroll, maximize o seu tamanho para ver tudo.",
 
     "Oversimplify Items": "Simplificar Itens",
     "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "Ao diminuir o zoom numa grande área de trabalho, os blocos e as notas serão (excessivamente) simplificados para um melhor desempenho.",
@@ -200,6 +254,7 @@
     "Swedish": "Sueco",
     "Czech": "Checo",
     "Russian": "Russo",
+    "Ukrainian": "Ucraniano",
     "Thai": "Tailandês",
     "Japanese": "Japonês",
     "Korean": "Coreano",
@@ -207,6 +262,9 @@
 
     "Developer Mode": "Modo de Desenvolvedor",
     "Developer Mode exposes the \"Developer\" menu with tools to help power users.": "O Modo de Desenvolvedor expõe o menu \"Desenvolvedor\" com ferramentas para ajudar utilizadores avançados.",
+
+    "External Bot Terminal": "Terminal do Bot Externo",
+    "Using an external terminal to run your bot requires having Node.js installed on your computer.": "Para utilizar um terminal externo para executar o seu bot, é necessário ter o Node.js instalado no seu computador.",
 
     "When selecting any Block, the \"Rename Block\" button will appear, which allows you to rename it to the desired Block (you need to know the Block's internal name). When renaming a Block, there is a risk of losing all its data.": "Ao selecionar qualquer Bloco, aparecerá o botão \"Renomear Bloco\", podendo renomeá-los para o Bloco desejado (é necessário saber o nome interno do Bloco). Quando renomear o Bloco, existe o risco de perder todos os seus dados.",
 
