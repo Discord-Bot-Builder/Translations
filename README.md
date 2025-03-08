@@ -10,16 +10,16 @@ Check out our [Crowdin](https://translate.dbb.software/) if you prefer!
 | Language         | Author(s)                                | Status                          |
 | ---------------- | ---------------------------------------- | ------------------------------- |
 | Portuguese 🇵🇹 🇧🇷  | MrGold                                   | Complete ✅                     |
-| German 🇩🇪        | NotCallMeHacker, XCraftTM, ACertainCoder | Incomplete (1.0.0-preview.5) ⚠️ |
+| German 🇩🇪        | NotCallMeHacker, XCraftTM, ACertainCoder | Complete ✅                     |
 | Russian 🇷🇺       | Artem's nite                             | Incomplete (1.0.0-preview.5) ⚠️ |
-| Swedish 🇸🇪       | MissDaily                                | Incomplete (1.0.0-preview.5) ⚠️ |
-| Czech 🇨🇿         | Martin Skalicky                          | Incomplete (1.0.0-preview.5) ⚠️ |
-| Polish 🇵🇱        | Domin0221                                | Incomplete (1.0.0-preview.5) ⚠️ |
-| Hungarian 🇭🇺     | Zan1456                                  | Incomplete (1.0.0-preview.5) ⚠️ |
+| Swedish 🇸🇪       | MissDaily                                | Complete ✅                     |
+| Czech 🇨🇿         | Martin Skalicky                          | Complete ✅                     |
+| Polish 🇵🇱        | Domin0221, Kayos                         | Complete ✅                     |
+| Hungarian 🇭🇺     | Zan1456                                  | Complete ✅                     |
 | Dutch 🇳🇱         | Javs                                     | Incomplete (1.0.0-preview.5) ⚠️ |
 | French 🇫🇷        | slaycer                                  | Incomplete (1.0.0-preview.4) ⚠️ |
-| Spanish 🇪🇸 🇲🇽    | eldediamante                             | Incomplete (1.0.0-preview.5) ⚠️ |
-| Thai 🇹🇭          | Simba 🦁                                | Incomplete (1.0.0-preview.5) ⚠️ |
-| Japanese 🇯🇵      | NPC                                      | Incomplete (1.0.0-preview.5) ⚠️ |
+| Spanish 🇪🇸 🇲🇽    | eldediamante                             | Complete ✅                     |
+| Thai 🇹🇭          | Simba 🦁                                | Complete ✅                     |
+| Japanese 🇯🇵      | NPC                                      | Complete ✅                     |
 | Korean 🇰🇷        | Svelion, Null                            | Incomplete (1.0.0-preview.5) ⚠️ |
 | Ukrainian 🇺🇦     | Ricardo Neud                             | Incomplete (1.0.0-preview.4) ⚠️ |
