@@ -219,6 +219,9 @@
     "Snap Items to Grid": "Elemente am Raster ausrichten",
     "When moving or resizing items, align them with the grid to maintain consistency.": "Wenn Elemente verschoben oder ihre Größe angepasst wird, richten sie sich am Raster aus, um die Konsistenz zu gewährleisten.",
 
+    "Maximize Block Size": "Block Größe beibehalten",
+    "When creating a Block that has scrollbar, maximize its size to view everything.": "Wenn ein Block mit einer Bildlaufleiste erstellt wird, erweitere den Block, um alles anzuzeigen.",
+
     "Oversimplify Items": "Elemente übermäßig vereinfachen",
     "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "Beim Verkleinern eines großen Arbeitsbereichs werden die Blöcke und Notizen (übermäßig) vereinfacht, um die Leistung zu verbessern.",
 

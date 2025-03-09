@@ -219,6 +219,9 @@
     "Snap Items to Grid": "",
     "When moving or resizing items, align them with the grid to maintain consistency.": "",
 
+    "Maximize Block Size": "",
+    "When creating a Block that has scrollbar, maximize its size to view everything.": "",
+
     "Oversimplify Items": "",
     "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "",
 

@@ -219,6 +219,9 @@
     "Snap Items to Grid": "Ajustar Elementos a la Cuadrícula",
     "When moving or resizing items, align them with the grid to maintain consistency.": "Al mover o cambiar el tamaño de los elementos, alinéelos con la cuadrícula para mantener la coherencia.",
 
+    "Maximize Block Size": "Maximizar el Tamaño de Bloque",
+    "When creating a Block that has scrollbar, maximize its size to view everything.": "Cuando cree un bloque que tenga barra de desplazamiento, maximice su tamaño para verlo todo.",
+
     "Oversimplify Items": "Simplificación excesiva",
     "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "Al alejar el zoom en un espacio de trabajo grande, los bloques y las notas se simplificarán (en exceso) para mejorar el rendimiento.",
 

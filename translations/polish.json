@@ -219,6 +219,9 @@
     "Snap Items to Grid": "Przyciągnij Elementy do Siatki",
     "When moving or resizing items, align them with the grid to maintain consistency.": "Podczas przesuwania lub zmiany rozmiaru elementów, wyrównaj je z siatką, aby zachować spójność.",
 
+    "Maximize Block Size": "Maksymalizuj Rozmiar Bloku",
+    "When creating a Block that has scrollbar, maximize its size to view everything.": "Podczas tworzenia Bloku posiadającego pasek przewijania, maksymalizuj jego rozmiar, aby wyświetlić wszystko.",
+
     "Oversimplify Items": "Nadmiernie Uprość Elementy",
     "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "Podczas oddalania dużej przestrzeni roboczej bloki i notatki zostaną (nadmiernie) uproszczone dla lepszej wydajności.",
 

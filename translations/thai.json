@@ -219,6 +219,9 @@
     "Snap Items to Grid": "สแน็ปของไปตาราง",
     "When moving or resizing items, align them with the grid to maintain consistency.": "เวลาย้ายหรือปรับขนาดของ จัดตามแนวกับตารางเพื่อเก็บความสม่ำเสมอ",
 
+    "Maximize Block Size": "ขยายขนาดบล็อกให้สุด",
+    "When creating a Block that has scrollbar, maximize its size to view everything.": "เวลาสร้างบล็อกที่มีแถบเลื่อน ขยายขนาดให้สุดเพื่อเห็นได้ทุกอย่าง",
+
     "Oversimplify Items": "ความละเอียดของหน่อย",
     "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "เวลาซูมออกในที่ทำงานใหญ่ ความละเอียดของพวกบล็อกและที่จดจะน้อยลงเพื่อผลงาน",
 

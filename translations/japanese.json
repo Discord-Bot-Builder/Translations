@@ -219,6 +219,9 @@
     "Snap Items to Grid": "アイテムをグリッドにスナップ",
     "When moving or resizing items, align them with the grid to maintain consistency.": "アイテムを移動またはサイズを変更する際、一貫性を保つためにグリッドに合わせて配置します。",
 
+    "Maximize Block Size": "ブロックサイズを最大化",
+    "When creating a Block that has scrollbar, maximize its size to view everything.": "スクロールバーのあるブロックを作成するときは、すべてを表示できるようにサイズを最大化します。",
+
     "Oversimplify Items": "アイテムの単純化",
     "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "大きなワークスペースをズームアウトすると、ブロックとノートが（過度に）簡略化されパフォーマンスが向上します。",
 

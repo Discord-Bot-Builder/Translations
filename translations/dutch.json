@@ -219,6 +219,9 @@
     "Snap Items to Grid": "Items vastmaken aan raster",
     "When moving or resizing items, align them with the grid to maintain consistency.": "Wanneer je items verplaats of vergroot, lijn ze dan uit met het raster om het netjes te houden.",
 
+    "Maximize Block Size": "Maximale blok grootte",
+    "When creating a Block that has scrollbar, maximize its size to view everything.": "Wanneer je een blok hebt met een scrollbar, maximaliseer de grootte om alles te kunnen bekijken.",
+
     "Oversimplify Items": "Item Simplificeren",
     "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "Bij het uitzoomen van een grotere werkruimte zullen blokken en notities gesimplificeert worden voor betere prestaties.",
 

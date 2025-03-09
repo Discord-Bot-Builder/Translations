@@ -219,6 +219,9 @@
     "Snap Items to Grid": "Elemek rácsra illesztése",
     "When moving or resizing items, align them with the grid to maintain consistency.": "Az elemek mozgatásakor vagy átméretezésekor igazítsa őket a rácshálóhoz a folytonosság fenntartása érdekében.",
 
+    "Maximize Block Size": "Blokkméret maximalizálása",
+    "When creating a Block that has scrollbar, maximize its size to view everything.": "Ha görgetősávval rendelkező blokkot hoz létre, maximalizálja a méretét, hogy mindent megjeleníthessen.",
+
     "Oversimplify Items": "Túlegyszerűsíettt elemek",
     "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "Ha nagy munkaasztalra nagyítunk, a jobb teljesítmény érdekében a blokkok és a jegyzetek (túlságosan) leegyszerűsödnek.",
 

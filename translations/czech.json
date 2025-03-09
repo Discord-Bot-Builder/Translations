@@ -219,6 +219,9 @@
     "Snap Items to Grid": "Přichytit předměty k mřížce",
     "When moving or resizing items, align them with the grid to maintain consistency.": "Při přesouvání a změně velikosti předmětů zarovnat předměty k mřížce k ponechání konzistentního prostředí.",
 
+    "Maximize Block Size": "Maximalizovat velikost bloku",
+    "When creating a Block that has scrollbar, maximize its size to view everything.": "Při vytváření bloku, který má posuvník, maximalizovat jeho velikost, aby šlo vše vidět.",
+
     "Oversimplify Items": "Zjednodušit předmety",
     "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "Při oddálení ve velkém pracovním prostoru, bloky a poznámky budou zjednodušeny pro lepší výkon.",
 

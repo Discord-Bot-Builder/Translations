@@ -219,6 +219,9 @@
     "Snap Items to Grid": "Fäst objekt till rutnät",
     "When moving or resizing items, align them with the grid to maintain consistency.": "När du flyttar eller ändrar storlek på objekt, justera dem med rutnätet för att bibehålla konsistens.",
 
+    "Maximize Block Size": "Maximera blockstorleken",
+    "When creating a Block that has scrollbar, maximize its size to view everything.": "När du skapar ett block som man kan skrolla på, maximera dess storlek för att se allt.",
+
     "Oversimplify Items": "Förenkla Föremål",
     "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "När du zoomar ut på en stor arbetsyta kommer blocken och anteckningarna att (överdrivet) förenklas för bättre prestanda.",
 

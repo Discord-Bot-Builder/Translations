@@ -219,6 +219,9 @@
     "Snap Items to Grid": "Прикрепить Элементы к Сетке",
     "When moving or resizing items, align them with the grid to maintain consistency.": "При перемещении или изменении размера элементов выравнивайте их по сетке, чтобы обеспечить единообразие.",
 
+    "Maximize Block Size": "Максимизировать Размер Блока",
+    "When creating a Block that has scrollbar, maximize its size to view everything.": "При создании блока с полосой прокрутки увеличьте его размер, чтобы просмотреть всё его содержимое.",
+
     "Oversimplify Items": "Упростить Элементы",
     "When zooming out on a big workspace, the blocks and notes will be (overly) simplified for better performance.": "При уменьшении масштаба большого пространства блоки и заметки будут (сильно) упрощены для повышения производительности.",
 
